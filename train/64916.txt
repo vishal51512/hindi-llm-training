@@ -1,0 +1,14 @@
+इष्टतम नियंत्रण, नियंत्रण की नीति निर्धारित करने की एक गणितीय इष्टतमीकरण विधि है। यह विचरण-कलन का विस्तार है जिसका विकास 1950 के दशक में लेव पोंट्रयागिन तथा रिचर्ड बेलमान ने किया था।इष्टतम नियंत्रण के अनुप्रयोग विविध क्षेत्रों में हो रहे हैं, जैसे- इंजीनियरी, अर्थनीति, जीवविज्ञान, पर्यावरण, वित्त, प्रबन्धन, चिकित्सा आदि। 
+किसी खान मालिक को निर्नय लेना है कि खान से खनिज किस गति से निकाले जांय। उसके पास खनन का स्वामित्व दिनांक   0  {\displaystyle 0} से दिनांक   T  {\displaystyle T} तक है। दिनाक   0  {\displaystyle 0} को खान में अयस्क की मात्रा    x 0   {\displaystyle x_{0}} है। अयस्क की वर्तमान मात्रा   x  {\displaystyle x} उसी गति से घटती जाती है जिस गति   u  {\displaystyle u} से खनिज निकाला जाता है। खान से अयस्क निकालने का खर्च   u  2  / x  {\displaystyle u^{2}/x} है और अयस्क का मूल्य नियतांक   p  {\displaystyle p} है। समय   T  {\displaystyle T} पर खान में जो अयस्क बच जाता है उसका कोई मूल्य नहीं रहेगा। खान स्वामी, अपने स्वामित्व काल में अपना लाभ अधिकतम करने के लिये खनन की दर   u  {\displaystyle u} कैसी रखे?
+The manager maximizes profit   Π  {\displaystyle \Pi } :
+subject to the law of evolution for the state variable   x t   {\displaystyle x_{t}} 
+Form the Hamiltonian and differentiate:
+As the mine owner does not value the ore remaining at time   T  {\displaystyle T} ,
+Using the above equations, it is easy to solve for the   x t   {\displaystyle x_{t}} and   λ t   {\displaystyle \lambda _{t}} series
+and using the initial and turn-T conditions, the   x t   {\displaystyle x_{t}} series can be solved explicitly, giving   u t   {\displaystyle u_{t}} .
+The manager maximizes profit   Π  {\displaystyle \Pi } :
+subject to the law of evolution for the state variable   x  {\displaystyle x} 
+Form the Hamiltonian and differentiate:
+As the mine owner does not value the ore remaining at time   T  {\displaystyle T} ,
+Using the above equations, it is easy to solve for the differential equations governing   u  {\displaystyle u} and   λ  {\displaystyle \lambda } 
+and using the initial and turn-T conditions, the functions can be solved to yield

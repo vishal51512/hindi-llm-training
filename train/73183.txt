@@ -1,0 +1,16 @@
+रसायन विज्ञान में, किसी मिश्रण के किसी अवयव का अणु-अंश निम्नलिखित प्रकार से पारिभाषित है-
+जहाँ,
+तथा,
+अर्थात सभी अवयवों के अणु-अंशों का योग 1 होता है।
+अणु-अंश का उपयोग प्रायः प्रावस्था आरेख के निर्माण में किया जाता है। इसके अनेक लाभ हैं-
+The mass fraction   w i   {\displaystyle w_{i}} can be calculated using the formula
+where   M i   {\displaystyle M_{i}} is the molar mass of the component   i  {\displaystyle i} and   M  {\displaystyle M} is the average molar mass of the mixture.
+Replacing the expression of the molar mass:
+Multiplying mole fraction by 100 gives the mole percentage, also referred as amount/amount percent .
+The conversion to and from mass concentration   ρ i   {\displaystyle \rho _{i}} is given by:
+where   M  {\displaystyle M} is the average molar mass of the mixture.
+The conversion to molar concentration   c i   {\displaystyle c_{i}} is given by:
+or
+where   M  {\displaystyle M} is the average molar mass of the solution, c total molar concentration and   ρ  {\displaystyle \rho } is the density of the solution .
+The mole fraction can be calculated from the masses   m i   {\displaystyle m_{i}} and molar masses   M i   {\displaystyle M_{i}} of the components:
+In a spatially non-uniform mixture, the mole fraction gradient triggers the phenomenon of diffusion.

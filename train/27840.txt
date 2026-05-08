@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 501 पर: Unable to find the specified location map definition. Neither "Module:Location map/data/Province of Cadiz" nor "Template:Location map Province of Cadiz" exists।
+आरको देल पॉपुलो दक्षिण स्पेन में स्थित कादिज़ शहर का एक महराबों वाला रास्ता है। इस स्थान को बिएन दे इंतेरेस कल्चरल के रूप में घोषित किया गया है। 

@@ -1,0 +1,6 @@
+ध्यान रहे कि यहाँ दिये हुए आंकड़े अधिकतम मान प्रदर्शित कर रहे हैं। वास्त्विक स्थितियों में की स्थिति में) इनसे कम दर पर ही आंकडा-विनिमय हो पाता है। 
+Note that the values given are maximum values, and actual values may be slower under certain conditions .
+Note that the values given are maximum values, and actual values may be slower under certain conditions .
+Note: 802.11 networks are half-duplex; all stations share the medium. In access point mode, all traffic has to pass through the AP . Two stations on the same AP which are communicating with each other will have all traffic pass the medium twice: once sent by the sender to the AP, then from AP to receiver, thus approximately halving the effective bandwidth.
+NOTE: Dual channel bandwidths are theoretical maximums and do not always reflect real world performance. In many cases, performance may be closer to single channel operation .
+

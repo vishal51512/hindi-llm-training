@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।
+संत पेदरो दे सेरवातोस का गिरजाघर कम्पू दे एनमेदिओ, स्पेन में मौजूद है। उसे 1895 में बिएन दे इंतेरेस कल्चरल के का दर्जा दिया गया था।

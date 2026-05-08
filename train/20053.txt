@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 501 पर: Unable to find the specified location map definition. Neither "Module:Location map/data/Province of Cadiz" nor "Template:Location map Province of Cadiz" exists।
+विज़ार्रोन का घर एक विशाल और भव्य घर है जो एल पुएरतो दे सांता मरीआ, स्पेन में स्थित है। इसे 2006 में बिएन दे इंतेरेस कल्चरल के तौर पर घोषित किया गया था। 

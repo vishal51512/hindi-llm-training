@@ -1,0 +1,7 @@
+नम्र प्रोसेसर उस माइक्रोप्रोसेसर कोर को कहते हैं जिसको किसी एफपीजीए, सीपीएलडी या एसिक में ढाला जा सके। 
+
+MHz, 32-bit RISC
+
+MHz on Artix 7. Up to 1.44 
+DMIPS/MHz.
+साँचा:Soft microprocessorsसाँचा:Programmable Logic

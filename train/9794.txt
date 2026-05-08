@@ -1,0 +1,8 @@
+समलम्ब चतुर्भुज एक ज्यामितीय आकृति है। 
+जिस चतुर्भुज की दो भुजाएं असमान और समान्तर हों उसे समलम्ब चतुर्भुज कहते हैं। याजिस चतुर्भुज की सम्मुख भुजाओं का केवल एक युग्म समान्तर होता है समलम्ब चतुर्भुज कहलाता है।
+  =  2 c − a   s     {\displaystyle ={\frac {2}{c-a}}{\sqrt {s\,}}} ,
+जहाँ   s =  1 2    {\displaystyle s={\tfrac {1}{2}}} 
+  =  2 a − c   s     {\displaystyle ={\frac {2}{a-c}}{\sqrt {s\,}}} ,
+जहाँ   s =  1 2    {\displaystyle s={\tfrac {1}{2}}} 
+  =  2 A     {\displaystyle ={\frac {2A}{}}} 
+  f =  a 2  + d 2  − 2 a d cos ⁡ α  =  b 2  + c 2  − 2 b c cos ⁡ γ   {\displaystyle f={\sqrt {a^{2}+d^{2}-2ad\cos \alpha }}={\sqrt {b^{2}+c^{2}-2bc\cos \gamma }}} 

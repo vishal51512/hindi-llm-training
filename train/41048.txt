@@ -1,0 +1,34 @@
+गणित में लघुगणक से संबन्धित बहुत सी सर्वसमिकाएँ हैं-
+Logarithms can be used to make calculations easier. For example, two numbers can be multiplied just by using a logarithm table and adding.
+Where   b  {\displaystyle b},   x  {\displaystyle x}, and   y  {\displaystyle y} are positive real numbers and   b ≠ 1  {\displaystyle b\neq 1} . Both   c  {\displaystyle c} and   d  {\displaystyle d} are real numbers.
+Note that   log b  ⁡   {\displaystyle \log _{b}\!\,} is undefined because there is no number   x   {\displaystyle x\!\,} such that   b x  = 0   {\displaystyle b^{x}=0\!\,} . In fact, there is a vertical asymptote on the graph of   log b  ⁡   {\displaystyle \log _{b}\!\,} at   x = 0  {\displaystyle x=0} .
+Logarithms and exponentials with the same base cancel each other. This is true because logarithms and exponentials are inverse operations .
+This identity is needed to evaluate logarithms on calculators. For instance, most calculators have buttons for ln and for log10, but not for log2. To find log2, one must calculate log10 / log10 /ln, which yields the same result).
+This formula has several consequences:
+
+where   π   {\displaystyle \scriptstyle \pi \,} is any permutation of the subscripts 1, ..., n. For example
+The following summation/subtraction rule is especially useful in probability theory when one is dealing with a sum of log-probabilities:
+which gives the special cases:
+Note that in practice   a  {\displaystyle a} and   c  {\displaystyle c} have to be switched on the right hand side of the equations if   c > a  {\displaystyle c>a} . Also note that the subtraction identity is not defined if   a = c  {\displaystyle a=c} since the logarithm of zero is not defined.
+More generally:
+where   a 0 , …, a N  > 0  {\displaystyle a_{0},\ldots ,a_{N}>0} .
+A useful identity involving exponents:
+The last limit is often summarized as "logarithms grow more slowly than any power or root of x".
+Where   x > 0  {\displaystyle x>0},   b > 0  {\displaystyle b>0}, and   b ≠ 1  {\displaystyle b\neq 1} .
+To remember higher integrals, it's convenient to define:
+Then,
+The identities of logarithms can be used to approximate large numbers. Note that logb + logb = logb, where a, b, and c are arbitrary constants. Suppose that one wants to approximate the 44th Mersenne prime, 232,582,657 − 1. To get the base-10 logarithm, we would multiply 32,582,657 by log10, getting 9,808,357.09543 = 9,808,357 + 0.09543. We can then get 109,808,357 × 100.09543 ≈ 1.25 × 109,808,357.
+Similarly, factorials can be approximated by summing the logarithms of the terms.
+The complex logarithm is the complex number analogue of the logarithm function. No single valued function on the complex plane can satisfy the normal rules for logarithms. However a multivalued function can be defined which satisfies most of the identities. It is usual to consider this as a function defined on a Riemann surface. A single valued version called the principal value of the logarithm can be defined which is discontinuous on the negative x axis and equals the multivalued version on a single branch cut.
+The convention will be used here that a capital first letter is used for the principal value of functions and the lower case version refers to the multivalued function. The single valued version of definitions and identities is always given first followed by a separate section for the multiple valued versions.
+The multiple valued version of log is a set but it is easier to write it without braces and using it in formulas follows obvious rules.
+When k is any integer:
+Principal value forms:
+Multiple value forms, for any k an integer:
+Principal value forms:
+Multiple value forms:
+A complex power of a complex number can have many possible values.
+Principal value form:
+Multiple value forms:
+Where k1, k2 are any integers:
+tt

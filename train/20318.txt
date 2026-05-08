@@ -1,0 +1,8 @@
+Number = 12931
+Start = मुंबई सेन्ट्रल
+End = अहमदाबाद
+Service Type = सुपरफास्ट
+Service Frequency = सोमवार से शनिवार
+Class = chair कार
+Catering = हा
+मुंबई सेन्ट्रल से 14:20 PM बजे निकलती है और अहमदाबाद पर 21:40 PM बजे पहुंचती है।

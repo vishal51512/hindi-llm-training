@@ -1,0 +1,4 @@
+नीचे की सारणियों में संख्यात्मक विश्लेषण करने वाले सॉफ्टवेयरों की भिन्न भिन्न तरह से तुलना की गयी है।
+The operating systems the software can run on natively .
+Colors indicate features available as
+The operating systems the software can run on natively .

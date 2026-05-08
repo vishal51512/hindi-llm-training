@@ -1,0 +1,9 @@
+{{Infobox VG systemवी का सेट | title  = वी | aka   = Revolution 
+| logo   = 
+| image  = | caption  = वास्तविक वी गेम कंसोल के साथ रिमोट| developer = निनटेंडो| manufacturer = फॉक्सकोन्न| type   =गेम कंसोल| release date = वी
+Wii Family Edition
+Wii Mini
+| discontinued = वी
+वी पारिवारिक संस्करण
+| generation = सातवीं पीढ़ी| lifespan  = 19 नवम्बर 2006 | CPU   = आईबीएम PowerPC "Broadway" 729 MHz | GPU   = ATI "Hollywood" 243 MHz | media  = 12 cm Wii Optical Disc8 cm Nintendo GameCube Game Disc| Memory  = 88MB, 24MB MoSys 1T-SRAM, 324MHZ, 2.7GB/s bandwidth| storage  = 512 MB Internal flash memorySD card, SDHC cardNintendo GameCube Memory Card| controllers = Wii Remote, Wii Balance Board, Nintendo GameCube controller, Nintendo DS| connectivity = Wi-Fi IEEE 802.11 b/gBluetooth2 × USB 2.0LAN Adapter |online service= Nintendo Wi-Fi Connection, WiiConnect24, Wii Shop Channel| top game  = Wii Sports 82.69 million के अनुसार ) Mario Kart Wii, 36.38 million के अनुसार )| compatibility=निनटेंडो गेमक्यूब| predecessor = निनटेंडो गेमक्यूब| successor = वी यू| unitssold =| unitsshipped = विश्व: 10,156 लाख के अनुसार ) }}वी एक प्रकार का घर में खेलने वाले वीडियो कंसोल है। जिसे 19 नवम्बर 2006 को निनटेंडो ने बनाया था। यह सातवीं पीढ़ी का कंसोल है। जिससे यह माइक्रोसॉफ़्ट के एक्सबॉक्स 360 और सोनी के प्लेस्टेशन को चुनौती देता है।
+इसका निर्माण पहली बार 2001 में वी गेमक्यूब नाम से हुआ था।

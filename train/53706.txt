@@ -1,0 +1,4 @@
+किसी रेडॉक्स अभिक्रिया के केवल आक्सीकरण या केवल अपचयन वाली अभिक्रिया को अर्ध-अभिक्रिया कहते हैं। यह ध्यान रखने योग्य है कि आक्सीकरण या अपचयन अकेले नहीं होते बल्कि साथ-साथ होते हैं, और इसीलिये इसे 'रेडॉक्स अभिक्रिया' कहते हैं।
+Consider the Galvanic cell shown in the image to the right: it is constructed with a piece of zinc submerged in a solution of zinc sulfate and a piece of copper submerged in a solution of copper sulfate . The overall reaction is:
+At the Zn anode, oxidation takes place . This is represented in the following oxidation half-reaction :
+At the Cu cathode, reduction takes place . This is represented in the following reduction half-reaction :

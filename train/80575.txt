@@ -1,0 +1,2 @@
+1976 -- Emacs1982 -- TeX1984 -- X window system1987 -- GCC1987 -- Perl1991 -- लिनक्स कर्नेल 1991 -- पाइथन 1992 -- 386BSD1992 -- Samba1993, March -- NetBSD1993, Dec -- FreeBSD1993 -- Wine1995, June -- PHP1995 -- GIMP1995 -- Ruby1996 -- Apache1996 -- KDE1997, August -- GNOME1999, August -- ओपेनआफिस 2002 -- MediaWiki2003, April -- Firefox
+

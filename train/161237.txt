@@ -1,0 +1,2 @@
+यंग मापांक या प्रत्यास्थता मापांक एक संख्या है जो बताती है कि किसी वस्तु या पदार्थ पर बल लगाकर उसका आकार बदलना कितना कठिन है। इसका मान वस्तु के प्रतिबल-विकृति वक्र के प्रवणता के बराबर होता है। परिभाषा के रूप में,
+Bulk modulus _solid gases and liquid B=Narmal stress/volum strain Shap - sameVolume -change Normal stress =F/A

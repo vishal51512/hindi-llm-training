@@ -1,0 +1,18 @@
+त्वरक भौतिकी में प्रतिबाधा वह भौतिक राशि है जो आवेशिक कण पुंज के स्वक्रिया की मापक या वैशिष्ट्य है। दूसरे शब्दों में, कण-पुंज पर निर्वात आवरण, रेडियो आवृत्ति कोटर एवं अन्य वस्तुओं का जो प्रभाव पड़ता है, उसे प्रतिबाधा द्वारा अभिव्यक्त किया जाता है।
+वेक-फलन के फुर्ये रूपान्तर को प्रतिबाधा के रूप में पारिभाषित किया जाता है। 
+   Z 0  |  |   = ∫ − ∞  ∞   d z c  e − i ω z / c  W 0   ′    {\displaystyle Z_{0}^{||}=\int _{-\infty }^{\infty }{\frac {dz}{c}}e^{-i\omega z/c}W_{0}^{'}} 
+वेक-फलन एक वास्तविक राशि है।उपरोक्त व्यंजक से निम्नलिखित गुण निकाला जा सकता है-
+   Z ∗ |  |   = Z  |  |    {\displaystyle Z^{*||}=Z^{||}} 
+कण-पुंज के मार्ग के प्रत्येक बिन्दु पर प्रतिबाधा पारिभाषित की जाती है। हम जानते हैं कि कण-पुंज एक निर्वात-चैम्बर के भीतर-भीतर चलती है। जिन-जिन स्थानों पर बीम-पाइप का आकार बदलता है वहाँ-वहाँ कण-पुंज प्रतिबाधा का सामना करता है। इसके अलावा रेडियो आवृत्ति कोटर प्रतिबाधा का दूसरा मुख्य कारण है।
+विस्तृत ज्यामितीय मॉडलन न हो तो भी बीम-पाइप के ज्यामितीय रचना केओ निरूपित करने के लिए कई मॉडल हैं जिनका उपयोग किया जा सकता है।
+For the longitudinal case, one has
+   Z  |  |   = R s   1 − i Q  1 + Q 2    2    {\displaystyle Z_{||}=R_{s}{\frac {1-iQ}{1+Q^{2}\left^{2}}}} 
+with   R s   {\displaystyle R_{s}} the shunt impedance,   Q  {\displaystyle Q}, the quality factor, and   ω r   {\displaystyle \omega _{r}} the resonant frequency.
+Given a circular beam piper of radius   b  {\displaystyle b}, and conductivity   σ  {\displaystyle \sigma }, the impedance is given by
+  Z =  1 − i  c b    ω 2 π σ    {\displaystyle Z={\frac {1-i}{cb}}{\sqrt {\frac {\omega }{2\pi \sigma }}}} 
+The corresponding longitudinal wakefield is approximately given by 
+  W =  q 2 π b    c σ   1 s 3 / 2    {\displaystyle W={\frac {q}{2\pi b}}{\sqrt {\frac {c}{\sigma }}}{\frac {1}{s^{3/2}}}} 
+The transverse wake-function from the resistive wall is given by
+  W ≈  1 s 1 / 2    {\displaystyle W\approx {\frac {1}{s^{1/2}}}} 
+The impedance acts back on the beam and can cause a variety of effects, often considered deleterious for accelerator functioning. In general, impedance effects are classified under the category of "collective effects" due to the fact that the whole beam must be considered together, and not just a single particle. The whole beam may, however, cause particular changes in the dynamics of individual particles such as tune shifts and coupling. Whole beam changes include emittance growth and instabilities that can lead to beam loss.
+https://impedance.web.cern.ch/impedance/

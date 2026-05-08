@@ -1,0 +1,15 @@
+गणित में निश्चित समाकल
+xy-समतल के ग्राफ f, x-अक्ष, तथा x = a और x = b रेखाओं से घिरे हुए क्षेत्र के क्षेत्रफल के बराबर होता है। 
+   ∫ 0  ∞   sin ⁡ p x cos ⁡ q x x   d x =  {  0   if  p > q > 0   π / 2   if  0 0     {\displaystyle \int _{0}^{\infty }{\frac {\sin px\cos qx}{x}}\ dx={\begin{cases}0&{\text{ if }}p>q>0\\\pi /2&{\text{ if }}00\end{cases}}} 
+   ∫ 0  ∞   sin ⁡ p x sin ⁡ q x  x 2    d x =  {  π p / 2   if  0 < p ≤ q   π q / 2   if  0 < q ≤ p     {\displaystyle \int _{0}^{\infty }{\frac {\sin px\sin qx}{x^{2}}}\ dx={\begin{cases}\pi p/2&{\text{ if }}0<p\leq q\\\pi q/2&{\text{ if }}0<q\leq p\end{cases}}} 
+   ∫ 0  ∞    sin 2  ⁡ p x  x 2    d x =  π p 2   {\displaystyle \int _{0}^{\infty }{\frac {\sin ^{2}px}{x^{2}}}\ dx={\frac {\pi p}{2}}} 
+   ∫ 0  ∞   1 − cos ⁡ p x  x 2    d x =  π p 2   {\displaystyle \int _{0}^{\infty }{\frac {1-\cos px}{x^{2}}}\ dx={\frac {\pi p}{2}}} 
+   ∫ 0  ∞   cos ⁡ p x − cos ⁡ q x x   d x = ln ⁡  q p   {\displaystyle \int _{0}^{\infty }{\frac {\cos px-\cos qx}{x}}\ dx=\ln {\frac {q}{p}}} 
+   ∫ 0  ∞   cos ⁡ p x − cos ⁡ q x  x 2    d x =  π  2   {\displaystyle \int _{0}^{\infty }{\frac {\cos px-\cos qx}{x^{2}}}\ dx={\frac {\pi }{2}}} 
+   ∫ 0  ∞   cos ⁡ m x  x 2  + a 2    d x =  π 2 a   e − m a   {\displaystyle \int _{0}^{\infty }{\frac {\cos mx}{x^{2}+a^{2}}}\ dx={\frac {\pi }{2a}}e^{-ma}} 
+
+   ∫ 0  ∞   sin ⁡ a x  sinh ⁡ b x   d x =  π 2 b  tanh ⁡  a π  2 b   {\displaystyle \int _{0}^{\infty }{\frac {\sin ax}{\sinh bx}}\ dx={\frac {\pi }{2b}}\tanh {\frac {a\pi }{2b}}} 
+   ∫ 0  ∞   cos ⁡ a x  cosh ⁡ b x   d x =  π 2 b   1 cosh ⁡  a π  2 b     {\displaystyle \int _{0}^{\infty }{\frac {\cos ax}{\cosh bx}}\ dx={\frac {\pi }{2b}}{\frac {1}{\cosh {\frac {a\pi }{2b}}}}} 
+   ∫ 0  ∞   x sinh ⁡ a x   d x =  π 2  4 a 2    {\displaystyle \int _{0}^{\infty }{\frac {x}{\sinh ax}}\ dx={\frac {\pi ^{2}}{4a^{2}}}} 
+   ∫ 0  ∞   f − f  x   d x = ln ⁡  b a   {\displaystyle \int _{0}^{\infty }{\frac {f-f}{x}}\ dx=\ln {\frac {b}{a}}} 
+   ∫ − a  a   m − 1   n − 1   d x =  m + n − 1   Γ Γ  Γ    {\displaystyle \int _{-a}^{a}^{m-1}^{n-1}\ dx=^{m+n-1}{\frac {\Gamma \Gamma }{\Gamma }}} 

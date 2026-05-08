@@ -1,0 +1,22 @@
+जब दो वस्तुएं गतिमान हों तो एक वस्तु द्वारा प्रेक्षित दूसरे वस्तु का वेग आपेक्षिक वेग या सापेक्ष वेग कहलाता है। अर्थात् वस्तु   A  {\displaystyle \mathbf {A} } का   B  {\displaystyle \mathbf {B} } के सापेक्ष वेग वह वेग है जिस वेग से वस्तु   B  {\displaystyle \mathbf {B} } से देखने पर वस्तु   A  {\displaystyle \mathbf {A} } चलती हुई प्रतीत होती है।
+जब दोनों सवार एक हि दिशा में गतिमान हों, ऐसी स्थिति में
+पहले सवार की अपेक्षा दूसरे सवार का वेग
+   V  {\displaystyle \mathbf {V} } BA =   V  {\displaystyle \mathbf {V} } B   −  {\displaystyle -}    V  {\displaystyle \mathbf {V} } A
+तथा, दूसरे सवार की अपेक्षा पहले सवार का वेग
+   V  {\displaystyle \mathbf {V} } AB =   V  {\displaystyle \mathbf {V} } A   −  {\displaystyle -}    V  {\displaystyle \mathbf {V} } B
+जब दोनों सवार एक–दूसरे के विपरीत दिशा में गतिमान हों, तो ऐसी स्थित में
+पहले सवार की अपेक्षा दूसरे सवार का वेग
+   V  {\displaystyle \mathbf {V} } BA =   V  {\displaystyle \mathbf {V} } B   −  {\displaystyle -} 
+   V  {\displaystyle \mathbf {V} } BA =   V  {\displaystyle \mathbf {V} } B   +  {\displaystyle +}    V  {\displaystyle \mathbf {V} } A
+तथा, दूसरे सवार की अपेक्षा पहले सवार का वेग
+   V  {\displaystyle \mathbf {V} } AB =   V  {\displaystyle \mathbf {V} } A   −  {\displaystyle -} 
+   V  {\displaystyle \mathbf {V} } AB =   V  {\displaystyle \mathbf {V} } A   +  {\displaystyle +}    V  {\displaystyle \mathbf {V} } B
+यदि दो गतिमान वस्तुओं के वेग एक सीधी रेखा में न होकर किसी कोण पर झुके हों, तो एक वस्तु की अपेक्षा दूसरी वस्तु का वेग उनके वेगों के सदिश अन्तर के बराबर होता है।
+माना कि वस्तु   A  {\displaystyle \mathbf {A} } का वेग   V  {\displaystyle \mathbf {V} } A के साथ वस्तु   B  {\displaystyle \mathbf {B} } का वेग   V  {\displaystyle \mathbf {V} } B,   θ  {\displaystyle \mathbf {\theta } } कोण बनाता है।
+अत:   A  {\displaystyle \mathbf {A} } के प्रति   B  {\displaystyle \mathbf {B} } का आपेक्षिक वेग
+   V →   {\displaystyle {\overrightarrow {V}}} BA =    V →   {\displaystyle {\overrightarrow {V}}} B   +  {\displaystyle +} 
+या    V →   {\displaystyle {\overrightarrow {V}}} BA =    V →   {\displaystyle {\overrightarrow {V}}} B   −  {\displaystyle -}    V →   {\displaystyle {\overrightarrow {V}}} A
+   B  {\displaystyle \mathbf {B} } के प्रति   A  {\displaystyle \mathbf {A} } का आपेक्षिक वेग
+   V →   {\displaystyle {\overrightarrow {V}}} AB =    V →   {\displaystyle {\overrightarrow {V}}} A   +  {\displaystyle +} 
+या    V →   {\displaystyle {\overrightarrow {V}}} AB =    V →   {\displaystyle {\overrightarrow {V}}} A   −  {\displaystyle -}    V →   {\displaystyle {\overrightarrow {V}}} B
+अत:    V →   {\displaystyle {\overrightarrow {V}}} AB =   −  {\displaystyle -}    V →   {\displaystyle {\overrightarrow {V}}} BA

@@ -1,0 +1,9 @@
+गणितीय नियतांक वह संख्या है जो गणित में स्वभावत: उत्पन्न होती हैं। उदाहरण - पाई, आयलर संख्या ई आदि।
+—तालिका संरचना--
+इस सूची के 'मान', 'नाम', 'OEIS' आदि पर क्लिक करके इस सूची को आवश्यकतानुसार क्रमित कर सकते हैं।
+  = 1 − 16   2 3    π 3   Γ Γ Γ  )  − 1   {\displaystyle =1-16{\sqrt {\tfrac {2}{3}}}\;\pi ^{3}\left\Gamma \Gamma \Gamma \right)^{-1}} 
+   γ  = Euler–Mascheroni Constant = 0,5772156649...   {\displaystyle \scriptstyle \gamma \,{\text{= Euler–Mascheroni Constant = 0,5772156649...}}}    ζ ′   = Derivative of  ζ  = −  ∑ n = 2  ∞   ln ⁡ n  n 2    = −0,9375482543...   {\displaystyle \scriptstyle \zeta '\,{\text{= Derivative of }}\zeta \,=\,-\!\!\sum \limits _{n=2}^{\infty }{\frac {\ln n}{n^{2}}}\,{\text{= −0,9375482543...}}} 
+   x n + 1  = a x n   o r  x n + 1  = a sin ⁡   {\displaystyle \scriptstyle x_{n+1}=\,ax_{n}\quad {or}\quad x_{n+1}=\,a\sin} 
+     +  + …  {\displaystyle \textstyle {\left}+\left+\dots } 
+    3  3  4     {\displaystyle \textstyle {\frac {3{\sqrt {3}}}{4}}\left} .
+Fn: Fibonacci series

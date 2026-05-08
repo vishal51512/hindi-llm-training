@@ -1,0 +1,79 @@
+विकिपीडिया एक सर्व सुलभ ज्ञानकोश है, जो दुनिया भर के योगदानकर्ताओ द्वारा लिखा जा रहा है । यह स्थल एक विकि है जिसका मतलब है कि कोई भी - आप भी - किसी भी असुरक्षित लेख को बदल सकते हैं और वे बदलाव तुरन्त ही इस वेब साइट पर आ जायेंगे |
+विकि पन्नों को बदलना बहुत आसान है। किसी भी पन्ने को बदलने के लिये इस पन्ने को बदलें कड़ी को क्लिक करके। यह आपको एक नये पन्ने पर ले जायेगा जहां आप एक टेक्स्ट बॉक्स में उस विकी पेज के लेख को बदल सकेंगे। उसमें टाइप कर के बदलाव करिये, एडिट बॉक्स के नीचे सारांश में अपने बदलाव का छोटे में सार लिखिये और 'बदलाव सुरक्षित करें' बटन को दबाइये। आप बदलाव सुरक्षित करने के पहले अपने परिवर्तनों की झलक देखने के लिये 'झलक दिखा' बटन का उपयोग भी कर सके हैं।और इसके बाद अपना नाम भी लिख सकते है।
+कृपया निष्पक्ष पहलू का प्रयोग करें । और अपने ताकि अन्य लोग आपके कार्य की जाँच कर सकें एवं उसे बढ़ा सकें । 
+कई बार यह ज़्यादा सुविधाजनक रहता है कि आप पन्ने की टेक्स्ट को कॉपी कर के अपनी पसन्द के टेक्स्ट एडिटर में पेस्ट करें, वहाँ बदलाव करें, और फिर अपने ब्राउज़र में वापस पेस्ट कर के बदलाव सुरक्षित करने के पहले झलक देखें| इस तरह से आप अपने योगदान वाले पन्नों की एक प्रति अपने पास भी रखेंगे और उनमें ऑफलाइन बदलाव भी कर पायेंगे। कुछ टेक्स्ट एडिटर विकिपीडिया में बदलाव करने के लिये विशेष रूप में परिवर्तित किये जा सकते हैं| 
+अगर बदलाव करते समय आप वर्तमान रूपान्तर देखना चाहें तो केंसल  को नयी विन्डो में खोलें। यह आपके बदलाव को कैंसल नहीं करता है।
+एक नया पन्ना बनाने के बाद अच्छा होगा यदि 
+Minor Edit भी देखें
+पन्ने बदलते समय, लॉग्ड इन सदस्य अपने परिवर्तनों पर "अप्रधान बदलाव " का चिन्ह लगा सकते हैं। अप्रधान बदलाव अक्सर होते हैं : स्पेलिन्ग सही करना, फ़ॉर्मैटिन्ग बदलना, या लेख में कुछ शब्दों का हेरफेर करना| हाल में हुए बदलाव देखते समय अप्रधान बदलावों को "छुपाया" जा सकता है। किसी प्रधान बदलाव को अप्रधान चिह्न लगाना बुरा बर्ताव माना जाता है, और भी बुरा यदि इसमें आपने कुछ टेक्स्ट हटाई हो। यदि आपने गलती से अपने बदलाव को अप्रधान चिह्न लगाया है तो उस पन्ने को पुनः बदलें और "यह एक छोटा बदलाव है" के चिन्ह कह हटा दें और सारांश में लेखे, न कि पिछला बदलाव छोटा नहीं था।
+नीचे के टेबल में बाँये हाथ की ओर आप देख सकते हैं कि किस तरह के रूपान्तर सम्भव हैं । टेबल के सीधे हाथ की तरफ़ दिखाया गया है कि यह रूपान्तर कैसे किया गया । दूसरे शब्दों में, अपनी टेक्स्ट को बाँये हाथ की तरह बनाने के लिये दाँये हाथ की तरफ दिखाये गये रूप में टाइप करें । 
+आप रेफ़रेन्स के लिये इस पन्ने को एक अलग ब्राउज़र विन्डो में खोल कर रख सकते हैं । अगर आप गलती करने के खतरे से बचना चाहते हैं तो आप बदलाव और फॉर्मैटिन्ग के बारे में प्रयोग विकिपीडिया:प्रयोगस्थल में कर सकते हैं । 
+Jaipur - de jai, victoire et pur, ville - est la capitale de l’État indien du Rajasthan. La situation de la ville, dans une cuvette protégée par les Ârâvalli, lui permettait de se défendre assez aisément, la route de Delhi étant tenue par la forteresse d’Amber à une dizaine de kilomètres. Jaipur se trouve à 430 m d’altitude et à 260 km de Delhi.
+
+
+
+
+
+
+
+विभागों को ऐसे बनायें 
+
+नया विभाग
+नया उप-विभाग 
+नया उप-उप-विभाग 
+
+एक अकेली नईलाइन का लेआउट पर कोइ प्रभाव नही होता । ये एक पैराग्राफ में वाक्यों कोअलग रखने के लिये प्रयोग में लाई जा सकती हैं ।कई लेखक इसे एडिटिन्ग में सुविधाकारक मानते हैंक्योंकि इससे diff फ़न्कशन द्वारा बदलाव मालूम करने में सहायता मिलती है । लेकिन एक खाली लाइन नया पैराग्राफ शुरू करती है । 
+नईलाइन केवल कोलन के पहले बनायें । कोलन के पहले खाली जगह छोड़ें .
+नईलाइन से नया पैराग्राफ शुरू होता है । 
+लेकिन इसका प्रयोग संवाद के लिये वार्ता के पन्नों पर भी किया जा सकता है.
+यह रेखा के नीचे है
+वार्ता पन्नों के सूत्रों को अलग रखने के लिये उपयोगी In rare times used to disambiguate an expression without creating a separate page.
+Thus the link above is to http://www.wikipedia.org/wiki/Public_transport, which is the article with the name "Public transport". See also Wikipedia:Canonization.
+answers.
+ब्रैकेट में लिखा हुआ अपने आप छुप जाता है:  राज  
+Automatically hide namespace: Village Pump. 
+The server fills in the part after the | when you save the page. Next time you open the edit box you will see the expanded piped link. A preview interprets the abbreviated form correctly, but does not expand it yet in the edit box. Press Save and again Edit, and you will see the expanded version. The same applies for the following feature.
+Economics#See also is a link to a section within another page.#Links, URLs is a link to a section on this page.
+you should sign it. You can do this byadding three tildes for your user name:
+or four for user name plus date/time:
+exist yet.
+
+Redirect one article title to another by putting text like this in its first line. Note that redirects to sections do not work yet. #REDIRECT ] will redirect to the United States page, but not to any particular section on it. It is possible this feature will be implemented in future, so such redirects could be used now for future compatibility. 
+Link to a page on the same subject in another language using a link like ].
+It does not matter where you put these links while editing as they always show up in the same place when you save the page, but placement at the end of the edit box is recommended. See Wikipedia:Interlanguage links and list of languages and codes.
+Special:Whatlinkshere/Wikipedia:How to edit a page andSpecial:Recentchangeslinked/Wikipedia:How to edit a page
+Category:Character sets
+Plain URL: http://www.nupedia.com/ This is an unnamed link. .Named link to Nupedia .
+To link to books, you can use Wikipedia:ISBN links. This is preferred to linking to a specific online bookstore, because it gives the reader a choice of vendors. ISBN links do not need any extra markup, provided you use this format.
+ISBN 012345678XISBN 0-123-45678-X
+July 20, 1969, 20 July 1969 and 1969-07-20
+To include links to non-image uploads such as sounds, use a "media" link.
+Sound
+or, with alternate text
+or, floating to the right side of the page and with a caption.
+or, floating to the right side of the page without a caption.
+Note the extra | after the word right. This is to make sure the image floats to the right side of the page, and not so that the alternate text is "right".
+Clicking on an uploaded image displays a description page, which you can also link directly to: Image:Wiki.png
+To include links to images shown as links instead of drawn on the page, use a "media" link.
+Image of a Tornado
+Emphasize, strongly, very strongly.
+and underline new material.
+Umlauts and accents:è é ê ë ì íÀ Á Â Ã Ä Å Æ Ç È É Ê Ë Ì ÍÎ Ï Ñ Ò Ó Ô ÕÖ Ø Ù Ú Û Ü ßà á â ã ä å æç è é ê ë ì íî ï ñ ò ó ô œ õö ø ù ú û ü ÿ
+
+Punctuation:¿ ¡ § ¶† ‡ • – —‹ › « »‘ ’ “ ”
+Commercial symbols:™ © ® ¢ € ¥ 
+Superscript: x2 or x²
+ε0 =8.85 × 10−12C² / J m.1 hectare = 1 E4 m²
+1 ] = ]
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ωΓ Δ Θ Λ Ξ Π Σ Φ Ψ Ω
+Math characters: ∫ ∑ ∏ √ − ± ∞≈ ∝ ≡ ≠ ≤ ≥ →× · ÷ ∂ ′ ″∇ ‰ ° ∴ ℵ ø∈ ∉ ∩ ∪ ⊂ ⊃ ⊆ ⊇¬ ∧ ∨ ∃ ∀ ⇒ ⇔→ ↔
+Complicated formulae:    ∑ n = 0  ∞   x n  n !   {\displaystyle \sum _{n=0}^{\infty }{\frac {x^{n}}{n!}}} 
+Suppressing interpretation of markup:Link → the ]
+Commenting page source:not shown in page
+ === Tables ===
+At the current status of the wiki markup language, having at least four headers on a page triggers the TOC to appear in front of the first header . Putting __NOTOC__ anywhere forces the TOC to disappear. See also compact TOC for alphabet and year headings.
+There are two ways to build tables: 
+For the latter, and a discussion on when tables are appropriate, see Wikipedia:How to use tables.
+
+NUMBEROFARTICLES is the number of pages in the main namespace which contain a link and are not a redirect, i.e. number of articles, stubs containing a link, and disambiguation pages).
+The MediaWiki software used by Wikipedia has limited support for template inclusion. This means standardized text chunks can be inserted into articles. For example, typing {{stub}} will appear as This article is a stub. You can help Wikipedia by expanding it. when the page is saved. Other commonly used ones are {{disambig}} for disambiguation pages and {{spoiler}} for spoiler warnings. See Wikipedia:Template messages for the complete list.

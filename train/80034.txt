@@ -1,0 +1,2 @@
+गणित में दो अनुक्रमों    n ≥ 0   {\displaystyle \textstyle _{n\geq 0}},    n ≥ 0   {\displaystyle \textstyle _{n\geq 0}} का कौशी गुणनफल दो अनुक्रमों का विविक्त संवलन अनुक्रम    n ≥ 0   {\displaystyle \textstyle _{n\geq 0}} है जिसका व्यापक पद निम्नलिखित है
+अन्य शब्दों में यह एक अनुक्रम है जिससे सम्बद्ध सामान्य घात श्रेणी    ∑ n = 0  ∞  c n  X n   {\displaystyle \textstyle \sum _{n=0}^{\infty }c_{n}X^{n}} समान रूप से सम्बद्ध    n ≥ 0   {\displaystyle _{n\geq 0}} और    n ≥ 0   {\displaystyle _{n\geq 0}} की श्रेणियों का गुणनफल है।

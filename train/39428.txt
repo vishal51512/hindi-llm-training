@@ -1,0 +1,10 @@
+समय के साथ ध्रुवांतर द्वारा घुमे गए कोण की दर को कोणीय वेग कहते हैं। इसका संकेत   ω  {\displaystyle \omega } है। यदि समय   t  {\displaystyle \mathbf {t} } में ध्रुवोत्तर कोण   θ  {\displaystyle \mathbf {\theta } } से घूम गया हो, तो-
+  ω  {\displaystyle \omega } =   θ  {\displaystyle \mathbf {\theta } }    /   {\displaystyle \mathbf {\big /} }    t  {\displaystyle \mathbf {t} } रेडियन / सेकेंड 
+कोणीय वेग एक सदिश राशि है । इसकी दिशा वस्तु के घूर्णन तल के लम्बवत होती है। 
+मान लें कि   t  {\displaystyle \mathbf {t} } समय में कोई वस्तु   P  {\displaystyle \mathbf {P} } से   Q  {\displaystyle \mathbf {Q} } तक चलती है और यदि   P  Q  {\displaystyle \mathbf {P} {Q}} =   S  {\displaystyle \mathbf {S} } हो, तो
+वस्तु का रेखीय चाल   V  {\displaystyle \mathbf {V} } =   S  {\displaystyle \mathbf {S} }    /   {\displaystyle \mathbf {\big /} }    t  {\displaystyle \mathbf {t} } 
+  ω  {\displaystyle \omega } =   θ  {\displaystyle \mathbf {\theta } }    /   {\displaystyle \mathbf {\big /} }    t  {\displaystyle \mathbf {t} }, जब   θ  {\displaystyle \mathbf {\theta } } रेडियन में मापा जाता है तो-
+   θ  {\displaystyle \mathbf {\theta } } =   S  {\displaystyle \mathbf {S} }    /   {\displaystyle \mathbf {\big /} }    r  {\displaystyle \mathbf {r} } 
+  ω  {\displaystyle \omega } =    S  /  r t   {\displaystyle {\frac {S{\big /}r}{t}}} =    I r   {\displaystyle {\frac {I}{r}}} =    S t   {\displaystyle {\frac {S}{t}}} =    V r   {\displaystyle {\frac {V}{r}}} 
+  ∴  {\displaystyle \therefore }    V  {\displaystyle \mathbf {V} } =   r  {\displaystyle \mathbf {r} }    x  {\displaystyle \mathbf {x} }   ω  {\displaystyle \omega } 
+अर्थात रेखीय वेग = त्रिज्या   ×  {\displaystyle \times } कोणीय वेग

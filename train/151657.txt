@@ -1,0 +1,14 @@
+'लुआ' छोटे आकार की प्रोग्रामन भाषा है जो मुख्यतः स्क्रिप्टिंग भाषा के रूप में प्रयोग के लिये डिजाइन की गयी है। फेम्म नामक 'फाइनाइट एलिमेन्ट' आधारित मुक्तस्रोत विश्लेषण प्रोग्राम को बैच मोड में चलाने के लिये लुआ ही प्रयुक्त होती है। लुआ, सन् 2013 से विकिमिडिया के सभी साइट पर स्क्रिप्टिंग भाषा के रूप में प्रयुक्त हो रही है।
+लुआ भाषा का सृजन 1993 में ब्राजील के रॉबर्तो लेरुसालिम्स्की, फिगरेदो तथा वाल्दीमर सीलीस ने की थी। 
+लुआ में सर्वप्रसिद्ध 'हेलो वर्ल्ड प्रोग्राम' इस प्रकार लिखा जा सकता है:
+टिप्पणी के लिए सिंटैक्स यह है:
+नीचे के उदाहरण में फैक्टोरियल निकालने के लिए फलन का कोड लिखा गया है:
+लुआ में चार तरह के लूप हैं।: while loop, repeat loop, for loop, तथा सामान्य for लूप। 
+The while loop has the syntax:
+The repeat loop:
+executes the loop body at least once, and would keep looping until cond becomes true.
+The for loop:
+would repeat the loop body 5 times, outputting the numbers 1 through 5 inclusive.
+Another form of the for loop is:
+The generic for loop:
+would iterate over the table _G using the standard iterator function pairs, until it returns nil.

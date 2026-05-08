@@ -1,0 +1,2 @@
+लुआ त्रुटि Module:Location_map में पंक्ति 389 पर: Minutes can only be provided with DMS degrees for longitude।
+अल्मान्सा का किला स्पेन के शहर अल्मान्सा में स्थित एक दुर्ग है। इसे 1921ई. में बिएन दे इंतेरेस कल्चरल की सूची में शामिल किया गया था। 

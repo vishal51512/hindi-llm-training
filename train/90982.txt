@@ -1,0 +1,4 @@
+{{Infobox laboratory}} closely resembles {{Infobox university}}. To see an example of {{Infobox laboratory}} in use, see below and/or Lawrence Berkeley National Laboratory.
+The HTML mark up produced by this template includes an hCard microformat, which makes the organisation's details parsable by computers, either acting automatically to catalogue article across Wikipedia, or via a browser tool operated by a reader, to add the subject to an address book. For more information about the use of microformats on Wikipedia, please see the microformat project.
+hCard uses HTML classes including:
+Please do not rename or remove these classes.

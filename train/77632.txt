@@ -1,0 +1,3 @@
+गणित में ध्रुवीय निर्देशांक पद्धति द्विविमीय-निर्देशांक पद्धति है जिसमें किसी बिन्दु के निर्देशांक उस बिन्दु की किसी सन्दर्भ बिन्दु से दूरी एवं सन्दर्भ दिशा से बनने वाले कोण द्वारा दी जाती है।
+The polar coordinates r and ϕ can be converted to the Cartesian coordinates x and y by using the trigonometric functions sine and cosine:
+The Cartesian coordinates x and y can be converted to polar coordinates r and ϕ with r ≥ 0 and ϕ in the interval may be obtained by adding 2π to the value in case it is negative.

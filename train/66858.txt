@@ -1,0 +1,141 @@
+निरपेक्ष मान : संख्या रेखा पर किसी संख्या की शून्य से दूरी 
+additive inverse: two numbers are additive inverses of each other if their sum is 0 
+बीजीय व्यंजक : numeral and/or variable joined by any combination of the four basic operations and involving any power of numeral and/or variable -7, y 2 -2)
+कोण की माप : the measure in degrees or radians of the radial distance between two rays that meet at a point
+क्षेत्रफल : the size of a region measured in number of square units
+समान्तर श्रेणी : a sequence with a constant difference between consecutive terms 
+associative property: a property of addition or multiplication in which the regrouping of the addends or factors does not change the outcome of the operations 
+attribute: a characteristic of an object, such as color, shape, or size
+bar graph: a graphical display representing data in different categories or groups. The length of arectangle or bar is used to represent the numerical amount
+bionomial: a polynomial which is the sum of two terms
+box and whisker plot: a graphical display that shows the median, quartiles, and extremes of a set of data, the spread of the data and the concentration of the data. the display does not show any other specific data values
+capacity : the maximum amount that can be contained by an object. Often refers to measurement of liquid
+cardinal numbers: the counting numbers 
+केन्द्रक : the point of intersection of the medians of a triangle
+circle graph: a graphical display that shows data as parts of a whole circle
+circumcenter : the point of intersection of the perpendicular bisectors of a triangle
+परिधी :वृत्त के परिणाम को वृत्त की परिधि कहते है ; the formula for circumference of a circle is pi times the diameter 
+बन्द आकृति : the boundary of a simple 2-dimensional region, including shapes with straight and curved sides
+एकरेखीय बिन्दु : a set of points lying on the same line
+संचय : a set of items selected, without regard to order, from a given set of items
+क्रम विनिमेय गुण :a property of addition or multiplication in which the sum or product stays the same when the order of the addends or factors is changed 
+concrete: physical objects used to represent mathematical situations
+'सर्वांगसमता : geometric figures having the same size and shape; all corresponding parts of congruent figures have the same measure
+एकबिन्दुगामी रेखाएं : lines that have a common point
+निर्देशांक तल : a 2-dimensional system in which the coordinates of a point are its distances from two intersecting perpendicular lines called axes. The formal name for this system is cartesian coordinate system
+counting technique: methods to determine the number of possible outcomes of an event. Some of themethods are tree diagram, list, rules for multiplication, combinations, and permutations
+curve fitting: the sketching of a line or curve to best describe a relationship between two variables on a scatter plot
+deductive reasoning: a series of logical steps in which a conclusion is drawn directly from a set of statements that are known or assumed to be true. 
+diagonal : for a polygon in the plane, any line segment joining non-adjacent vertices. For a polyhedron in space, a line segment joining two vertices not in the same face
+dilation: a transformation which produces a figure similar to the original by proportionally shrinking or stretching the figure
+विमीय विश्लेषण : a method of converting units within a measurement system
+अनुक्रमानुपाती सम्बन्ध : a relationship in which the ratio of two variables is constant
+विवर्त गणित : the study of mathematical properties of sets and systems that have only a finite number of elements.
+distributive property: a property which establishes a relationship between multiplication and addition such that multiplication distributes across the addition 
+विभाजन के नियम : special tests to determine if a particular integer is a factor of a given number, 
+domain: the set of input values for a function
+elapsed time: the amount of time between a beginning time and an ending time
+equally likely outcomes: events in a sample space that have the same probability of occurring
+समीकरण : a mathematical sentence of equality between two expressions 
+तुल्य : numbers or expressions that have the same value
+estimation: the process of finding a number close to an exact amount
+euclidean geometry: the geometry based on Euclid’s postulates
+घटना : one of the many occurrences that can take place during a probability activity
+expanded notation: the sum of terms representing a quantity
+explicit relationship: a sequence rule using the number of the term to define the function 
+प्रायोगिक प्रायिकता : a probability calculated from the results of an experiment
+घातांक : a number which is placed to the right of and above another number . the value of the exponent determines how many times the base is used as a factor 
+चरघातांकी फलन : a function whose general equation is a y=ab x or y=ab kx, where a, b, and k stand for constants.
+व्यंजक : a mathematical phrase with no equal sign such as 6, 3n, or + 4
+फलक : a plane surface of a three-dimensional figure
+गुणक : the numbers or terms multiplied in an expression
+सूत्र : an equation that states a fact or rule 
+बारंबारता सारणी : a display to show how often items, numbers, or a range of numbers occur
+फलन : a relationship in which every value of x has a unique value of y 
+फलन का निरूपण : a notation that describes a function. for a function ƒ, when x is a member of the domain, the symbol ƒ denotes the corresponding member of the range 
+गुणोत्तर श्रेणी : a sequence with a constant ratio between two consecutive terms. Each successive term is found by multiplying the preceding term by the preceding term by the ratio. 
+graph: a pictorial representation of information or relationships between numbers
+histogram: a graphical display representing continuous data in different categories or groups
+अन्तः केन्द्र : the point of intersection of the angle bisectors of a triangle
+परोक्ष मापन : a measurement which is found by using a formula or other strategy and not actually measuring something 
+inductive reasoning: a type of type of mathematical reasoning which involves observing patterns and using those observations to make generalizations
+असमता : a mathematical sentence in which the value of the expressions on either side of the relation symbol are unequal. relation symbols include >, <, ³greater than or equal to), <, .
+inference: a conclusion drawn from data
+पूर्णांक : a set of whole numbers and its opposites 
+inverse operations: two operations that “undo” each other 
+व्युत्क्रमानुपाती सम्बन्ध : a relationship in which the product of two variables is constant
+अपरिमेय संख्या : numbers which cannot be represented by an exact ratio of two integers. 
+line graph: a graphical representation using points connected by line segments to show how something changes over time
+line of best fit: a line drawn on a scatter plot to estimate the relationship between two sets of data
+line plot: a graph using marks above a number on a number line to show the frequency of data
+रेखीय फलन : a function with no exponents other than one and with no products of the variables ; in a rectangular coordinate system, the graph of a linear function is a line
+manipulatives: tools, models, blocks, tiles, and other objects which are used to explore mathematical ideas and solve mathematical problems
+matrices: rectangular arrays of numbers arranged in rows and columns
+उच्चिष्ट : the greatest value in a data set or the greatest value of a function
+माध्य या औसत : in a collection of data, the sum of all the data divided by the number of data measures of central tendency: numbers which tend to cluster around the “middle” of a set of values. three such numbers are mean, median, and mode
+माध्यिका : the middle number in a collection of numbers that is arranged in order from least to greatest
+निम्निष्ट : the least value in a data set or the least value of a function
+बहुलक : the number that occur most often in a collection of data
+model: to represent or show mathematical ideas and relationships and real-world situations using objects, pictures, graphs, tables, functions, and other methods
+एकपदी : a polynomial with only one term
+अपवर्त्य : the product of a whole number and any other whole number
+multiplicative inverse: two numbers are multiplicative inverses of each other if their product is 1 
+एकविमीय : a figure that has length but no width or height
+ordinal numbers: numbers used to express order 
+orthocenter : the point of intersection of the altitudes of a triangle
+outcome of an event: one of the possible occurrances in a probability situation
+समान्तर parallel : lines that lie in the same plane and never meet. also, planes lying in space that never meet
+patterns: regularities in situations such as those in nature, events, shapes, designs, and sets of numbers 
+प्रतिशत : ऐसी भिन्न संख्याओ के अंश को जिसका हर 100 हो प्रतिशत कहते हैं 
+परिमाप : the distance around a geometric shape
+लम्ब perpendicular: lines in the same plane which intersect to form a right angle
+pictograph: a graphical representation that shows numerical information by using picture symbols
+स्थानीय मान : the value of a digit as determined by its position in a number 
+बहुपद : a mathematical expression consisting of a sum of terms each of which is a product of a constant and one or more variables
+polynomial degree: the highest power or sum of powers in any term of a given polynomial
+polynomial term: an algebraic expression that is an addend in a polynomial expression
+pop ulation: a group of people, objects, or events that fit a particular description
+power: a number expressed using an exponent 
+precision: the smallest place value to which an approximate number or measurement is expressed 
+प्रिज्म या समफलकी : a three-dimensional figure with parallelogram faces and two parallel, congruent bases
+किसी घटना की प्रायिकता : a number that represents the likelihood that the event will occur properties of operations: mathematical principals that are always true 
+समानुपात : an equation of the form a/b=c/d which states that the two ratios are equivalent
+पाइठागोरस का प्रमेय : the sum of the squares of the lengths of the two legs of a right triangle is equal to the square of the length of the hypotenuse . The formula is a 2 + b 2 = c 2
+द्विघात फलन : a function of the second degree ; in a rectangular coordinate system, the graph of a quadratic function is a parabola
+कर्णी : another name for the roots of numbers, such as the square root of 5
+परास : the set of output values for a functionrange : the difference between the greatest and the smallest numbers in a set of data 
+दर : a ratio comparing two different units 
+अनुपात : a comparison of two whole numbers by division
+परिमेय सख्या : a real number that can be written as a quotient/ratio of two integers a/b, where b does not equal 0; a repeating or terminating decimal, integer, fraction, or whole number
+वास्तविक संख्या : any number that is either rational or irrational
+recursive relationship: a function rule which uses the value of the preceding term in the definition
+reflection : a transformation which produces the mirror image of a figure 
+rotation : a transformation obtained by rotating a figure around a fixed point 
+sample space: the set or collection of all possible outcomes of a probability experiment
+scale: choice of increments and range of numbers on an axis
+scale drawing: a scaled representation of physical objects or drawings
+scatter plot: a graphical representation consisting of ordered pairs possibly showing a relationship between two variable quantities
+वैज्ञानिक निरूपण : representation of a number as the product of a number between 1 and 10 and a power of 10; used especially for very small or very large numbers 
+समरूपता : two or more figures having the same shape but not necessarily the same size
+simulation: a representation of a situation or problem with a similar but simpler model or a more easily manipulated model in order to determine experimental results
+slides: a transformation in which the figures moves in a linear direction
+प्रवणता : the ratio of the rise to the run of any two distinct points on a line
+हल : the values of a variable that make an equation or inequality a true statement
+statistical investigation: a procedure for obtaining data and drawing conclusions or making decisions on the basis of available data
+stem and leaf plot: a method of organizing data for the purpose of comparison where the "leaf" is the number in the smallest place value and the "stem" includes the numbers in the larger place values
+पृष्ट क्षेत्र : the sum of the areas of the faces of a solid figure
+सममिति : a figure has symmetry if there exists some line or point through which all points of the figure can be reflected to generate another point on the figuretheoretical probability: a probability of a given event calculated from mathematical counting techniques. 
+त्रि-विमीय : an object that has length, width, and height
+transformation: a rule for moving every point in a plane figure to a new location.
+translation : a transformation that slides a figure a given distance in a given direction
+trend: the general drift, tendency, or direction of a set of data
+त्रिकोणमितीय अनुपात : a comparison of the measures of the lengths of two sides of a right triangle expressed in fractional or decimal form; there are six trigonometric ratios associated with any angle
+trigonometry: the study of right triangle measurements and ratios, useful for calculating indirectmeasurements
+द्वि-विमीय : a figure that has length and width but not height 
+valid argument: an explicit demonstration or proof that has been shown to be true
+validate: to give evidence that a solution or process is correct
+चर : a letter or symbol which represents one or more numbers
+variability: numbers that describe how spread out a set of data is. 
+शीर्ष ) : the points where two line segments come together 
+आयतन' : the amount of space enclosed in a three-dimensional figure, measured in cubic units whole numbers: the numbers in the set {0, 1, 2, 3, …}
+y-intercept. The point at which a line crosses the y-axis.

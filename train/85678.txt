@@ -1,0 +1,7 @@
+यदि p एक अशून्य वास्तविक संख्या है, तथा   x 1 , …, x n   {\displaystyle x_{1},\dots ,x_{n}} धनात्मक वास्तविक संख्याएँ हैं, तो इन संख्याओं का सामान्यीकृत माध्य या p घात वाला घात माध्य  निम्नलिखित है-
+We can rewrite the definition of Mp using the exponential function
+In the limit p → 0, we can apply L'Hôpital's rule to the argument of the exponential function. Differentiating the numerator and denominator with respect to p, we have
+By the continuity of the exponential function, we can substitute back into the above relation to obtain
+as desired. 
+Assume that   x 1  ≥ ⋯ ≥ x n   {\displaystyle x_{1}\geq \dots \geq x_{n}} . Then
+The formula for   M − ∞   {\displaystyle M_{-\infty }} follows from   M − ∞  =  1  M ∞    .  {\displaystyle M_{-\infty }={\frac {1}{M_{\infty }}}.} 

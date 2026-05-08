@@ -1,0 +1,5 @@
+पाइथन का उपयोग भारी संख्या में करते हैं, और विविध कार्यों के लिए करते हैं।
+List of numerical libraries
+निम्नलिखित सॉफ्टवेयरों में पाइथन, स्क्रिप्टिंग भाषा है, या स्क्रिप्टिंग भाषा के रूप में प्रयोग की जा सकती है।
+Implementations of Python include:
+Historic Python implementations include:

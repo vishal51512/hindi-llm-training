@@ -1,0 +1,6 @@
+The information in this article appears to be suited for inclusion in a dictionary, and this article's topic meets Wiktionary's criteria for inclusion, has not been transwikied, and is not already represented. It will be copied into Wiktionary's transwiki space from which it can be formatted appropriately.
+'विकृति ' यह वस्तु या पदार्थ मे होने वाले विरूपण को प्रदर्शित करती हैं| बाह्य बल के कारण वस्तु की लंबाई मे होने वाली परिवर्तन एवं उसकी प्रारंभिक लंबाई के अनुपात को विकृति कहते हैं |
+अतः  
+नोट :- यह दो लंबाई का अनुपात हैं अर्थात इसकी कोई इकाई नहीं होती हैं | '
+विकृति के निम्न प्रकार हैं -1. सामान्य विकृति :-इसके अंतर्गत tensile strain, compressive strain,& volumetric strain,
+2.shear strain 

@@ -1,0 +1,5 @@
+यहाँ एलेक्ट्रॉनिक डिजाइन स्वचालन की दृष्टि से उपयोगी सॉफ्टवेयरों के विभिन्न पक्षों की तुलना की गयी है।
+It is available for all three major operating systems, and features a large selection of component libraries. Migration tools are also provided. The file format is plain text, and is well documented, which is a useful feature for content management systems.
+Note: ODB++ support is drawn partly from lists by Artwork Conversion Software and Mentor Graphics
+
+

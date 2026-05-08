@@ -1,0 +1,552 @@
+ 		 	 किसी ग्राफ पर किसी बिन्दु की Y-अक्ष से लम्बवत दूरी; इसे X-निर्देशांक भी कहते हैं।	
+ परम विचलन			 
+ परम त्रुटि		 	 किसी राशि के वास्तविक मान एवं मापे गये मान के बीच का अन्तर
+ परम शून्य  	 वह ताप जिस पर किसी वस्तु के अणुओं की गतिज उर्जा न्यूनतम हो जाती है; शून्य डिग्री केल्विन या -273.16 डिग्री सेल्सियस	
+ अवशोषण वर्णक्रम		 	 A continuous spectrum interrupted by dark lines or bands that are characteristic of the medium through which the radiation has passed.	
+ त्वरण  वेग में परिवर्तन की दर
+ 		 	 एक ऐसा तत्व जिसके प्रत्येक परमाणु के संयोजी कक्ष में इलेक्ट्रोनों की संख्या 3 हो जिससे क्रिस्टल के जालक निर्माण में अर्ध्दचालक क्रिस्टल इलेक्ट्रोनों "कोटर" उपलब्ध्द कराता है। An element with three valence electrons per atom which when added to a semiconductor crystal provides electron "holes" in the lattice structure of the crystal.	
+ शुद्धि  	 किसी विशिष्ट भौतिक राशि के मापे गए मान की ग्राह्य मान से निकटता Closeness of a measurement to the accepted value for a specific physical quantity; expressed in terms of error.	
+ ध्वनिकी ध्वनिकी चिरसम्मत यांत्रिकी की वह शाखा जिसके अंतर्गत श्रव्य ध्वनि, अवश्रव्य तरंगों तथा पराश्रव्य तरंगों का अध्ययन किया जाता है Acoustics is the branch of classical mechanics concerned with the study of sound, ultrasound and infrasound ।
+ आसंजक  	 दो अलग-अलग प्रकार के अणुओं के मध्य लगने वाला आकर्षण बल The force of attraction between unlike molecules.	
+ रुद्धोष्म प्रक्रम	 	 A thermal process in which no heat is added to or removed from a system.	
+ कृषि-भौतिकी	 	 Agrophysics is a new branch of science bordering on physics and agronomy
+ अल्फा कण	 	 A helium-4 nucleus, especially when emitted from the nucleus of a radioactive atom.	
+ प्रत्यावर्ती धारा  	 An electric current that has one direction during one part of a generating cycle and the opposite direction during the remainder of the cycle.	
+ धारामापी  	 An electric meter designed to measure current.	
+ एम्पीयर  	 The unit of electric current; one coulomb per second.	
+ आवर्धक  	 A device consisting of one or more vacuum tubes  	 and associated circuits, used to increase the strength of a signal.
+ आयाम  	 The maximum displacement of a vibrating particle from its equilibrium position.	
+ आपतन कोण  	 The angle between the incident ray and the normal drawn to the point of incidence.	
+ परावर्तन कोण  	 The angle between the reflected ray and the normal drawn to the point of incidence.	
+ अपवर्तन कोण  	 The angle between the refracted ray and the normal drawn to the point of refraction.	
+ आंग्स्ट्राम	 	 A unit of linear measure equal to 10–10 m.	
+ कोणीय त्वरण	 	 The time rate of change of angular velocity.	
+ कोणीय आघात	 	 The product of a torque and the time interval during which it acts.	
+ कोणीय संवेग	 	 The product of the rotational inertia of a body and its angular velocity.	
+ कोणीय वेग	 	 The time rate of change of angular displacement.	
+ धनाग्र  	 -1 The positive electrode of an electric cell. 	
+ 		 	 A substance composed of antiparticles.	
+ प्रति-कण  	 A counterpart of a subatomic particle having opposite properties । 	
+द्वारक  	 Any opening through which radiation may pass. The diameter of an opening that admits light to a lens or	
+ आभासी शक्ति	 	 The product of the effective values of alternating voltage and current.	
+ 		 	 The inverse function to the tangent. Symbol: arctan or tan-l. Interpretation: "An angle whose tangent is	
+ 		 	 A coil of wire formed around an iron or steel core that rotates in the magnetic field of a generator or motor.	
+ परमाणु  	 The smallest particle of an element that can exist either alone or in combination with other atoms of the same or other elements.	
+ परमाणविय द्रव्यमान इकाई  	 One-twelfth of the mass of carbon-12, or 1.6605655 x 10–27 kg.	
+ परमाणु क्रमांक  	 The number of protons in the nucleus of an atom.	
+ परमाणु भार	 	 The weighted average of the atomic masses of an element's isotopes based on their relative abundance.	
+ श्रव्य संकेत  	 The alternating voltage proportional to the sound pressure produced in an electric circuit.	
+ माध्य वेग	 	 Total displacement divided by elapsed time.	
+ 		 	 An induced emf in the armature of a motor that opposes the applied voltage.	
+ अस्त्र-विज्ञान 
+ 	 	 An emission spectrum consisting of fluted bands of color. The spectrum of a substance in the molecular state.	
+ दाबमापी  	 A device used to measure the pressure of the atmosphere.	
+ 		 	 A subatomic particle with a large rest mass, e.g., the proton.	
+ मूल समीकरण  	 An equation that relates the unknown quantity with known quantities in a problem.	
+ वैद्युत स्थितिकी का आधरभूत नियम  	 Similarly charged objects repel each other. Oppositely charged objects attract each other.	
+ किरण-पुंज	 	 Several parallel rays of light considered collectively.	
+ स्पन्दन  	 The interference effect resulting from the superposition of two waves of slightly different frequencies propagating in the same direction. The amplitude of the resultant wave varies with time.	
+ बेक्वेरल	 	 The rate of radioactivity equal to one disintegration per second.	
+ बीटा कण  	 An electron emitted from the nucleus of a radioactive atom.	
+ बीटाट्रान	 	 A device that accelerates electrons by means of the transformer principle .	
+ 		 	 A high-energy synchrotron.	
+ बंधक ऊर्जा	 	 Energy that must be applied to a nucleus to break it up.	
+ क्वथनांक	 	 The temperature at which the vapor pressure of a liquid equals the pressure of the atmosphere.	
+ बोसॉन  	 A subatomic particle with zero charge and rest mass, e.g., the photon.	
+ बायल का नियम  	 The volume of a dry gas varies inversely with the pressure exerted upon it, provided the temperature is constant.	
+ 		 	 A nuclear reactor in which a fissionable material is produced at a greater rate than the fuel is consumed.	
+ ब्राउनी गति	 	 The irregular and random movement of small particles suspended in a fluid, known to be a consequence of the thermal motion of fluid molecules.	
+ 		 	 Instrument used for making the paths of ionizing particles visible as a trail of tiny bubbles in a liquid.	
+ कैलरी	 	 The quantity of heat equal to 4.19 joules.	
+ उष्मामापी	 	 A heat-measuring device consisting of nested metal cups separated by an air space.	
+ कैंडल	 	 The unit of luminous intensity of a light source.	
+ धारिता  	 The ratio of the charge on either plate of a capacitor to the potential difference between the plates. capacitive reactance. Reactance in an a-c circuit containing capacitance which causes a lagging voltage.	
+ संधारित्र  	 A combination of conducting plates separated by layers of a dielectric that is used to store an electric charge.	
+ सूक्ष्म नलिका  	 The elevation or depression of liquids in small-diameter tubes.	
+ ऋणाग्र  	 -1 The negative electrode of an electric cell. 	
+ कैथोड किरणें  	 Particles emanating from a cathode; electrons.	
+ सेल्सियस पैमाना  	 The temperature scale using the ice point as 0o and the steam point as 100o, with 100 equal divisions, or degrees, between; formerly the centigrade scale.	
+ वक्रता केन्द्र  	 The center of the sphere of which the mirror or lens surface forms a part.	
+ गुरुत्व केन्द्र  	 The point at which all of the weight of a body can be considered to be concentrated.	
+ अभिकेन्द्रीय बल	 	 Force that tends to move the particles of a rotating object away from the center of rotation.	
+ अभिकेन्द्रीय त्वरण	 	 Acceleration directed toward the center of a circular path.	
+ अपकेन्द्रीय बल	 	 The force that produces centripetal acceleration.	
+ शृंखला अभिक्रिया	 	 A reaction in which the material or energy that starts the reaction is also one of the products and can cause similar reactions.	
+ चार्ल का नियम	 	 The volume of a dry gas is directly proportional to its Kelvin temperature, providing the pressure is constant.	
+ रासायनिक परिवर्तन	 	 A change in which new substances with new properties are formed.	
+ रासायनिक तुल्यांक	 	 The quantity of an element, expressed in grams, equal to the ratio of its atomic weight to its valence.	
+ वर्ण विपथन	 	 The nonfocusing of light of different colors.	
+ वृत्तीय गति	 	 Motion of a body along a circular path.	
+ 		 	 A chamber in which charged subatomic particles appear as trails of liquid droplets.	
+ क्षेत्रीय प्रसार गुणांक  	 The change in area per unit area of a solid per degree change in temperature.	
+ आयतन प्रसार गुणांक	 	 The change in volume per unit volume of a solid or liquid per degree change in temperature.	
+ रेखीय प्रसार गुणांक	 	 The change in length per unit length of a solid per degree change in temperature.	
+ 		 	 The ratio of the force needed to overcome sliding friction to the normal force pressing the surfaces together.	
+ कला सम्बद्ध  	 The property of two wave trains with identical wavelengths and a constant phase relationship.	
+ ससंजक बल 		 	 The force of attraction between like molecules.	
+ वर्ण  	 The visual perception of light associated with its frequency or wave length.	
+ काम्यूटेटर 	 	 A split ring in a d-c generator, each segment of which is connected to an end of a corresponding armature loop.	
+ पूरक वर्ण	 	 Two colors that combine to form white light.	
+ पूर्ण कम्पन	 	 Back-and-forth motion of an object describing simple harmonic motion.	
+ अवयव		 	 One of the several vectors that can be combined geometrically to find a resultant vector.	
+ बलों का संयोजन  	 The combining of two or more component forces into a single resultant force.	
+ संपीडन  	 The region of a longitudinal wave in which the distance separating the vibrating particles is less than their equilibrium distance.	
+ अवतल  	 Surface with center of curvature on the same side as the observer.	
+ अवतल लेंस	 	 A lens that diverges parallel light rays । 	
+ अवतल दर्पण	 	 A mirror that converges parallel light rays incident on its surface.	
+ एकबिन्दुगामी बल	 	 Forces with lines of action that pass through the same point.	
+ संघनन	 	 The change of phase from a gas or vapor to a liquid.	
+ चालकता	 	 The reciprocal of the ohmic resistance.	
+ चालक	 	 A material through which an electric charge is readily transferred.	
+ संरक्षित बल 		 वो बल जिससे तन्त्र	 की यांत्रिक ऊर्जा संरक्षित रहती है। उदाहरण के लिये गुरुत्वाकर्षण बल, स्थिरवैद्युतिकीय बल। Forces for which the law of conservation of mechanical energy holds true; gravitational forces and electrostatic forces.	
+ सतत स्पेक्ट्रम	 	 A spectrum without dark lines or bands or in which there is an uninterrupted change from one color to another.	
+ अभिसारी लेंस  	 A lens that is thicker in the middle than it is at the edge and bends incident parallel rays toward a common point.	
+ उत्तल	 	 Surface with center of curvature on the opposite side from the observer.	
+ उत्तल लेंस	 	 A lens that converges parallel light rays । convex mirror. A mirror that diverges parallel light rays incident on its surface.	
+ ब्रम्हाण्ड किरणें  	 High-energy nuclear particles apparently originating from outer space.	
+ कास्मोट्रान	 	 A high-energy synchrotron.	
+ कूलाम्ब	 	 The quantity of electricity equal to the charge on 6.25 x 1018 electrons.	
+ कूलाम्ब का वैद्युत स्थितिकी का नियम	 	 The force between two point charges is directly proportional to the product of their magnitudes and inversely proportional ta the square of the distance between them.	
+ कूलाम्ब का चुम्बकत्व का नियम	 	 The force between two magnetic poles is directly proportional to the strengths of the poles and inversely proportional to the square of their distance apart.	
+ बल-युग्म	 	 Two forces of equal magnitude acting in opposite directions in the same plane, but not along the same line.	
+ शृंग  	 A region of upward displacement in a transverse wave.	
+ क्रान्तिक कोण	 	 That limiting angle of incidence in the optically denser medium that results in an angle of refraction of 90o.	
+ क्रान्तिक द्रब्यमान	 	 The amount of a particular fissionable material required to make a fission reaction self-sustaining.	
+ क्रान्तिक बिन्दु	 	 The upper limit of the temperature-pressure curve of a substance.	
+ क्रान्तिक दाब	 	 The pressure needed to liquefy a gas at its critical temperature.	
+ क्रान्तिक ताप	 	 The temperature to which a gas must be cooled before it can be liquefied by pressure.	
+ क्रान्तिक वेग	 	 Velocity below which an object moving in a vertical circle will not describe a circular path.	
+ क्यूरी	 	 The quantity of any radioactive nuclide that has a disintegration rate of 3.7 x 1O1O becquerels.	
+ धारा संवेदनशीलता	 	 Current per unit scale division of an electric meter. cut-off bias. The smallest negative grid voltage, for a given plate voltage, that causes a vacuum tube to cease to conduct.	
+ देहली आवृति	 	 A characteristic threshold frequency of incident light below which, for a given material, the photoelectric emission of electrons ceases.	
+ 		 	 A negative potential on the collector of a photoelectric cell that reduces the photoelectric current to zero.	
+ चक्र  	 A series of changes produced in sequence that recur periodically.	
+ साइक्लोट्रान	 	 A device for accelerating charged atomic particles by means of D-shaped electrodes.	
+ मन्दन  	 The reduction in amplitude of a wave due to the dissipation of wave energy.	
+ क्षय नियतांक  	 The ratio between the number of nuclei decaying per second and the total number of nuclei.	
+ डेसीबेल  	 A unit of sound intensity level. The smallest change of sound intensity that the normal human ear can detect.	
+ 		 	 The angle between magnetic north and the true north from any surface location; also called variation.	
+ 		 	 The electrodes of a cyclotron.	
+ घनत्व  	 See mass density.	
+ 		 	 A unit of measure that consists of combinations of fundamental units .	
+ 		 	 The temperature at which a given amount of water vapor will exert equilibrium vapor pressure.	
+ प्रतिचुम्बकीय		 	 The property of a substance whereby it is feebly repelled by a strong magnet.	
+ 		 	 A property of certain crystalline substances in which one polarized component of incident light is absorbed and the other is transmitted.	
+ पैराविद्युतांक		 	 An electric insulator. A nonconducting medium.	
+ पैराविद्युतांक नियतांक 		 	 The ratio of the capacitance with a particular material separating the plates of a capacitor to the capacitance with a vacuum between the plates.	
+ विवर्तन	 	 The spreading of a wave disturbance into a region behind an obstruction .	
+ विवर्तन कोण	 	 The angle that a diffracted wavefront forms with the grating plane.	
+ 		 	 An optical surface, either transmitting or reflecting, with several thousand equally spaced and parallel grooves ruled in it.	
+ 		 	 -1 The penetration of one type of particle into a mass of a second type of particle. 	
+ विमीय विश्लेषण	 	 The performance of indicated mathematical operations in a problem with the measurement units alone.	
+ डायोड  	 A two-terminal device that will conduct electric current more easily in one direction than in the other.	
+ दिष्ट धारा	 	 An essentially constant value current in which the movement of charge is in only one direction.	
+ समानुपात	 या अनुक्रमानुपाती  	 The relation between two quantities whose graph is a straight line.	
+ 		 	 The process of separating polychromatic light into its component wavelengths.	
+ विस्थापन	 	 -1 A change of position in a particular direction. 	
+ 		 	 Forces for which the law of conservation of mechanical energy does not hold true; frictional forces.	
+ आसवन	 	 The evaporation of volatile materials from a liquid or solid mixture and their condensation in a separate vessel.	
+ अपसारी लेंस	 	 A lens that is thicker at the edge than it is in the middle and bends incident parallel rays so that they appear to come from a common point.	
+ 		 	 A microscopic magnetic region composed of a group of atoms whose magnetic fields are aligned in a common direction.	
+ 		 	 A substance with five valence electrons per atom which when added to a semiconductor crystal provides free electrons in the lattice structure of the crystal.	
+ डाप्लर प्रभाव	 	 The change observed in the frequency with which a wave from a given source reaches an observer when the source and the observer are in relative motion.	
+ द्विक अपवर्तन	 	 The separation of a beam of unpolarized light into two refracted plane-polarized beams by certain crystals such as quartz and calcite.	
+ 		 	 Charged cylinders used to accelerate charged subatomic particles in a linear accelerator.	
+ 		 	 The property of a metal that enables it to be drawn through a die to form a wire.	
+ भंवर धाराएं	 	 Closed loops of induced current set up in a piece of metal when there is relative motion between the metal and a magnetic field. The eddy currents are in such direction that the resulting magnetic forces oppose the relative motion.	
+ एडिसन प्रभाव	 	 The emission of electrons from a heated metal in a vacuum. effective value of current. The magnitude of an alternating current that in a given resistance produces heat at the same average rate as that magnitude of steady direct current.	
+ दक्षता	 	 The ratio of the useful work output of a machine to total work input.	
+ प्रत्यास्थ संघट्ट	 	 A collision in which objects rebound from each other without a loss of kinetic energy.	
+ प्रत्यास्थता सीमा	 	 The condition in which a substance is on the verge of becoming permanently deformed.	
+ प्रत्यास्थ स्थितिज ऊर्जा	 	 The potential energy in a stretched or compressed elastic object.	
+ प्रत्यास्थता	 	 The ability of an object to return to its original size or shape when the external forces producing distortion are removed.	
+ विद्युत धारा	 	 The rate of flow of charge past a given point in an electric circuit.	
+ वैद्युत क्षेत्र	 	 The region in which a force acts on an electric charge brought into the region.	
+ वैद्युत क्षेत्र की तीव्रता	 	 The force per unit positive charge at a given point in an electric field.	
+ 		 	  	 A conductor connected with the earth to establish zero 
+ 		 	 The process of charging a body by adding or removing electrons.	
+ विद्युत रासायनिक सेल	 	 A cell in which chemical energy is converted to electric energy by a spontaneous electron transfer reaction.	
+ विद्युत रासायनिक तुल्य  	 The mass of an element, in grams, deposited by one coulomb of electric charge.	
+ विद्युताग्र	 	 A conducting element in an electric cell, electronic tube, or semiconductor device.	
+ वैद्युत अपघटन  	 The conduction of electricity through a solution of an electrolyte or through a fused ionic compound, together with the resulting chemical changes .	
+ वैद्युत अपघट्य	 	 A substance whose solution conducts an electric current. electrolytic cell. A cell in which electric energy is converted to chemical energy by means of an electron-transfer reaction.	
+ विद्युत चुम्बकीय प्रेरण  	 The process by which an emf is set up in a conducting circuit by a changing magnetic flux linked by the circuit.	
+ विद्युतचुम्बकीय अनुक्रिया	 	 The interaction that keeps electrons in orbit and forms bonds between atoms and molecules.	
+ विद्युतचुम्बकीय तरंगें	 	 Transverse waves having an electric component and a magnetic component, each being perpendicular to the other and both perpendicular to the direction of propagation.	
+ विद्युत वाहक बल	 	 See emf.	
+ इलेक्ट्रॉन 	 	 A negatively charged subatomic particle having a rest mass of 9.109534 x 10–31 kg and a charge of 1.6021892 x 10-19 c.	
+ इलेक्ट्रान कक्षा	 	 A region about the nucleus of an atom in which electrons move and which is made up of electron orbitals.	
+ एलेक्ट्रान-वोल्ट	 	 The energy required to move an electron between two points that have a difference af potential of one volt.	
+ इलेक्ट्रानिकी	 	 The branch of physics concerned with the emission, behavior, and effects of electrons.	
+ विद्युतदर्शी	 	 A device used to observe the presence of an electrostatic charge.	
+ मूल रंग  	 The six regions of color in the solar spectrum observed by the dispersion of sunlight: red, orange, yellow, green, blue, indigo, and violet.	
+ विकृति	 	 The ratio of the increase in length to the unstretched length.	
+ वि वा ब	 	 The energy per unit charge supplied by a source of electric current.	
+ उत्सर्जन स्पेक्ट्रम	 	 A spectrum formed by the dispersion of light from an incandescent solid, liquid, and gas.	
+ अन्तः उष्मीय	 	 Referring to a process that absorbs energy.	
+ ऊर्जा	 	 The capacity for doing work.	
+ ऊर्जा स्तर	 	 One of a series of discrete energy values that characterize a physical system governed by quantum rules.	
+ 		 	  	 The internal energy of a system that cannot be converted to mechanical work. 
+ संतुलनकारी बल  	 The force that produces equilibrium.	
+ संतुलन	 	 The state of a body in which there is no change in its motion.	
+ संतुलन की स्थिति	 	 Midpoint of the path of an object describing simple harmonic motion.	
+ संतुलन वाष्प दाब	 	 The pressure exerted by vapor molecules in equilibrium with a liquid.	
+ वाष्पन	 	 The change of phase from a liquid to a gas or vapor.	
+ अपवर्जन सिद्धान्त	 	 No two electrons in an atom can have the same set of quantum numbers	
+ बहिरोष्म	 	 Referring to a process that liberates energy.	
+ वाह्य ज्वलन इंजन	 	 A heat engine in which the fuel burns outside the cylinder or turbine chamber.	
+ फैराड	 	 The unit of capacitance; one coulomb per volt.	
+ 	फैराडे  	 The quantity of electricity  	 required to deposit one chemical equivalent of an element.
+ फैराडे का प्रथम नियम	 	 The mass of an element deposited during electrolysis is proportional to the quantity of charge that passes through the electrolytic cell.	
+ फैराडे का द्वितीय नियम	 	 The mass of an element deposited during electrolysis is proportional to the chemical equivalent of that element.	
+ 		 	 The property of a substance by which it is strongly attracted by a magnet.	
+ फीनमान आरेख	 	 A diagram showing the production and exchange of particles during a subatomic interaction.	
+ प्रकाश विद्युत उत्सर्जन का प्रथम नियम	 	 The rate of emission of photoelectrons is directly proportional to the intensity of the incident light.	
+ उष्मागतिकी का प्रथम नियम	 	 When heat is converted to another form of energy, or when another form of energy is converted to heat, there is no loss of energy.	
+ विखण्डन	 	 The splitting of a heavy nucleus into nuclei of intermediate mass.	
+ 		 	 The ionization tube that emits the light in a chemical laser.	
+ फ्लमिंग वाल्व  	 The first vacuum-tube diode.	
+ प्रदीप्ति	 	 The emission of light during the absorption of radiation from another source.	
+ फ्लक्स	 	 Flow.	
+ 		 	 The ratio of the focal length of a lens to the effective aperture.	
+ नाभीय दूरी / फोकस दूरी	 	 The distance between the principal focus of a lens or mirror and its optical center or vertex.	
+ नाभीय तल	 	 The plane perpendicular to the principal axis of a converging lens or mirror and containing the principal focus.	
+ नाभि	 	 A point at which light rays meet or from which rays of light appear to diverge.	
+ बल	 	  	 A physical quantity that can affect the motion of an object. 
+ गुरुत्व बल	 	 See gravity.	
+ 		 	 Vibration that is due to the application of a periodic force, and not to the natural vibrations of the system.	
+ अग्रिम बायस		 	 Voltage applied to a semiconductor P-N junction that increases the electron current across the junction.	
+ आंशिक आसवन	 	 The process of separating the components of a liquid mixture by means of differences in their boiling points.	
+ निर्देश तन्त्र		 	 Any system for specifying the precise location of objects in space.	
+ गलनांक	 	 The temperature at which a liquid changes to a solid.	
+ 	आवृति	 	 Number of vibrations, oscillations, or cycles per unit time.	
+ घर्षण	 	 A force that resists the relative motion of objects that are in contact with each other.	
+ इंधन सेल	 	 An electrochemical cell in which the chemical energy of continuously supplied fuel is converted into electric energy.	
+ मूल	 	 The lowest frequency produced by a musical tone source. That harmonic component of a wave which has the lowest frequency.	
+ मूल इकाई	 	 Any one of seven basic units of measure.	
+ संलयन  	 -1 The change of phase from a solid to a liquid; melting. 	
+ धारामापी	 	 An instrument used to measure minute electric currents.	
+ गामा किरण  	 High energy photon emitted from the nucleus of a radioactive atom.	
+ गीगर नलिका	 	 Ion sensitive instrument used for the detection of subatomic particles.	
+ गुरुत्व क्षेत्र	 	 Region of space in which each point is associated with a value of gravitational acceleration.	
+ गुरुत्व बल	 	 The mutual force of attraction between particles of matter.	
+ गुरुत्वीय अनुक्रिया	 	 The interaction between particles of matter that has no known distance limitations, but is the weakest interaction of all.	
+ गुरुत्वीय स्थितिज ऊर्जा	 	 Potential energy acquired by an object when it is moved against gravity.	
+ 		 	 The carrier for the gravitational interaction.	
+ गुरुत्व	 	 The force of gravitation on an object on or near the surface of a celestial body.	
+ ग्रिड  	 An element of an electronic tube. An electrode used to control the flow of electrons from the cathode to the plate.	
+ 		 	 The grid-to-cathode voltage.	
+ अर्ध काल	 	 The length of time during which, on the average, half of a large number of radioactive nuclides decay.	
+ 		 	 The fundamental and the tones whose frequencies are whole number multiples of the fundamental.	
+ उष्मा	 	 Thermal energy in the process of being added to or removed from, a substance.	
+ उष्मा धारिता	 	 The quantity of heat needed to raise the temperature of a body one degree.	
+ ऊष्मीय यंत्र	 	 Any device that converts heat energy into mechanical work.	
+ गलन की उष्मा	 	 The heat required per unit mass to change a substance from solid to liquid at its melting point.	
+ वाष्पन की उष्मा	 	 The heat required per unit mass to change a substance from liquid to vapor at its boiling point.	
+ ऊष्मीय पम्प  	 A device that absorbs heat from a cool environment and gives it off to a region of higher temperature.	
+ 		 	 A reservoir that absorbs heat without a significant increase in temperature.	
+ हेनरी	 	 The unit of inductance; one henry of inductance is present in a circuit when a change in the current of 1 ampere per second induces an emf of 1 volt.	
+ हुक का नियम	 	 Below the elastic limit, strain is directly proportional to stress.	
+ अति परवलय	 	 Graph of an inverse proportion.	
+ 		 	 A property of some baryons and leptons that is conserved in strong and electromagnetic interactions but not in weak interactions.	
+ परिकल्पना	 	 A plausible solution to a problem.	
+ हिमांक	 	 The melting point of ice when in equilibrium with water saturated with air at standard atmospheric pressure.	
+ आदर्श गैस	 	 A theoretical gas consisting of infinitely small molecules that exert no forces on each other; also called perfect gas.	
+ प्रदीपन		 	 The luminous flux per unit area of a surface.	
+ प्रतिविम्ब	 	 The optical counterpart of an object formed by lenses or mirrors.	
+ प्रतिबाधा	 	  	 The ratio of applied wave-producing force to resulting displacement velocity of a wave-transmitting medium. 
+ 		 	 A technique used to ensure maximum transfer of energy from the output of one circuit to the input of another.	
+ आवेग	 	 The product of a force and the time interval during which it acts.	
+ परावर्तन गुणांक	 	 The ratio of the speed of light in a vacuum to its speed in a given matter medium.	
+ प्रेरित चुम्बकत्व	 	 Magnetism produced in a ferromagnetic substance by the influence of a magnetic field.	
+ प्रेरकत्व	 	 The Property of an electric circuit by which a varying current induces a back emf in that circuit or a neighboring circuit.	
+ प्रेरण	 	 The process of charging one body by bringing it into the electric field of another charged body.	
+ 		 	 Reactance in an a-c circuit containing inductance, which causes a lagging current.	
+ अप्रत्यास्थ संघट्ट	 	 A collision in which the colliding objects stick together after impact.	
+ जड़त्व  	 The property of matter that opposes any change in its state of motion.	
+ जड़त्वीय निर्देश तंत्र		 	 A nonaccelerating frame of reference in which Newton's first law holds true.	
+ अवरक्त प्रकाश	 	 Electromagnetic waves longer than those of visible light and shorter than radio waves.	
+ अवश्रव्य परास	 	 Vibrations in matter below 20 cycles/second.	
+ ताक्षणिक धारा	 	 The magnitude of a varying current at any instant of time.	
+ ताक्षणिक वेग	 	 Short displacement divided by elapsed time. Slope of the line that is tangent to a velocity graph at a given point.	
+ तात्क्षणिक विभव	 	 The magnitude of a varying voltage at any instant of time.	
+ अचालक  	 A material through which an electric charge is not readily transferred.	
+ तीव्रता स्तर  	 The logarithm of the ratio of the intensity of a sound to the intensity of the threshold of hearing.	
+ अनुक्रिया	 	 Any change in the amount or quantum numbers of particles that are near each other.	
+ अंतराफलक		 	 A surface that forms the boundary between two phases or systems.	
+ व्यतिकरण	 	  	 The superposing of one wave on another. 
+ आन्तरिक ज्वलन यंत्र	 	 A heat engine in which the fuel burns inside the cylinder or turbine chamber.	
+ आन्तरिक ऊर्जा	 	 Total potential and kinetic energy of the molecules and atomic particles of a substance.	
+ 		 	 An accelerator in which particles collide as they move in opposite directions.	
+ 		 	 The emission of photons of radiation from a material when bombarded with high speed electrons.	
+ व्युत्क्रम अनुपात	 	 The relation between two quantities whose product is a constant and whose graph is a hyperbola.	
+ आयन	 	 An atom or a group of atoms having an electric charge.	
+ आयनन कक्ष 		 	 A device used to detect the passage of charged rays or particles by their ionizing effect on a gas.	
+ आयनन ऊर्जा	 	 The energy required to remove an electron from an atom.	
+ 		 	 Scattering. Reflection in many different directions from an irregular surface.	
+ समतापीय प्रक्रम	 	 A thermal process that takes place at constant temperature.	
+ समावयव	 	 Atoms whose nuclei contain the same number of protons but different numbers of neutrons.	
+ जूल	 	 The unit of work; the product of a force of one newton acting through a distance of one meter.	
+ जूल का नियम	 	 The heat developed in a conductor is directly proportional to the resistance of the conductor, the square of the current, and the time the current is maintained.	
+ 		 	 A solid-state device based on the transistor principle that is used to detect the passage of charged particles.	
+ केल्विन पैमाना	 	 The scale of temperature having a single fixed point, the temperature of the triple point of water, which is assigned the value 273.16 oK.	
+ किलोग्राम	 	 A unit of mass in the metric system; one of the seven fundamental units.	
+ किलोवाट घण्टा  	 A unit of electric energy equal to 3.6 x 106 w s.	
+ गतिज ऊर्जा	 	 Energy possessed by an object because of its motion.	
+ गतिज सिद्धान्त	 	 The molecules of matter are continuously in motion and the collisions between molecules are perfectly elastic.	
+ किरचाफ का प्रथम नियम	 	 The algebraic sum of the currents at any circuit junction is equal to zero.	
+ किरचाफ का द्वितीय नियम	 	 The algebraic sum of all changes in potential occurring around any loop in a circuit equals zero.	
+ लेजर	 	 An acronym for light amplification by stimulated emission of radiation.	
+ 	नियम  	 A statement that describes a natural phenomenon; a principle.	
+ बेरयाॅन संरक्षण का नियम 		 	 When a baryon decays or reacts with another particle, the number of baryons is the same on both sides of the equation.	
+ ऊर्जा संरक्षण का नियम  	 The total quantity of energy in a closed system is constant.	
+ 		 	 Hypercharge is conserved in strong and electromagnetic interactions, but not in weak interactions.	
+ 		 	 In a reaction involving leptons, the arithmetic sum of the lepton numbers is the same on each side of the equation.	
+ यांत्रिक ऊर्जा के संरक्षण का नियम	 	 The sum of the potential and kinetic energies of an ideal energy system is constant.	
+ संवेग संरक्षण का नियम	 	 When no net external forces are acting on an object, the total vector momentum of the object remains constant.	
+ 		 	 A natural process always takes place in such a direction as to increase the entropy of the universe.	
+ उष्मा विनिमय का नियम  	 In any heat transfer system, the heat lost by hot materials equals the heat gained by cold materials .	
+ लेंज का नियम  	 An induced current is in such a direction that its magnetic property opposes the change by which the current is induced.	
+ लेप्टान  	 A subatomic particle with a small rest mass, e.g., the electron. line of flux. A line so drawn that a tangent to it at any point indicates the direction of the magnetic field.	
+ बल रेखा	 	 A line so drawn that a tangent to it at any point indicates the direction of the electric field.	
+ रेखीय स्पेक्ट्रम	 	 A spectrum consisting of monochromatic slit images having wavelengths characteristic of the atoms present in the source.	
+ रेखीय त्वरक	 	 A device for accelerating particles in a straight line through many stages of small potential difference.	
+ त्वरक भौतिकी  	 Accelerator physics deals with the problems of building and operating particle accelerators.	
+ द्रवीकरण	 	 The change to the liquid phase. The condensation of a gas to a liquid.	
+ लीटर  	 A special name for the cubic decimeter. Symbol: L.	
+ अनुदैर्ध्य तरंग	 	 A wave in which the vibrations are parallel to the direction of propagation of the wave.	
+ वलय		 	 A midpoint of a vibrating segment of a standing wave.	
+ 		 	 The sensation that depends principally on the intensity of sound waves reaching the ear.	
+ ल्यूमेन	 	 The unit of luminous flux; the luminous flux on a unit surface all points of which are at unit distance from a point source of one candle:	
+ प्रदीप्त		 	 Visible because of the light emitted by its oscillating particles.	
+ 		 	 The part of the total energy radiated per unit of time from a luminous source that is capable of producing the sensation of sight.	
+ यंत्र  	 A device that multiplies force at the expense of distance or that multiplies distance at the expense of force.	
+ चुम्बकीय क्षेत्र	 	 A region in which a magnetic force can be detected.
+ चुम्बकीय क्षेत्र की तीव्रता	 	 The force exerted by a magnetic field on a unit N pole situated in the field.	
+ चुम्बकीय फ्लक्स	 	 Lines of flux through a region of a magnetic field, considered collectively.	
+ 		 	 The magnetic flux through a unit area normal to the magnetic field; also called magnetic induction.	
+ चुम्बकीय बल	 	 A force associated with motion of electric charges.	
+ 		 	 A region of the upper atmosphere in which the motion of charged particles is governed primarily by the magnetic field of the earth.	
+ आवर्धन	 	 The ratio of the image distance to the object distance; the ratio of the image size to the object size.	
+ 		 	 The property of a metal that enables it to be hammered or rolled into sheets.	
+ द्रव्यमान 	 	 A measure of the quantity of matter; a fundamental physical quantity.	
+ द्रव्य घनत्व	 	 Mass per unit volume of a substance.	
+ द्रव्यमान संख्या		 	  	 The sum of the number of protons and neutrons in the nucleus of an atom. 
+ 		 	 Instrument used to determine the mass of ionized particles.	
+ पदार्थ	 	 Anything that has the properties of mass and inertia.	
+ द्रब्य तरंगें	 	 A property of matter that is directly proportional to Planck's constant and inversely proportional to mass and velocity.	
+ उष्मा का यांत्रिक तुल्यांक	 	 The conversion factor that relates heat units to work units; 4.19 j/cal.	
+ यांत्रिक तरंग	 	 A wave that originates in the displacement of a portion of an elastic medium from its normal position, causing it to oscillate about an equilibrium position.	
+ माध्यम  	 Any region through which a wave disturbance propagates. Mechanical waves require a matter medium. Electromagnetic waves propagate through a vacuum and various matter media.	
+ गलनांक	 	 The temperature at which a solid changes to a liquid.	
+ 		 	 The crescent-shaped surface at the edge of a liquid column.	
+ 		 	 A subatomic particle with a rest mass intermediate between that of a lepton and a baryon; the carrier of the strong interaction.	
+ मीटर	 	 A unit of length in the metric system equivalent to 1,650,763.73 wave-lengths of the orange-red light emitted by krypton-86. One of the seven fundamental units of measure.	
+ दूरिक प्रणाली	 	 A system of measurement that is based on decimal multiples and subdivisions.	
+ मंदक  	 A material that slows down neutrons .	
+ मोल  	 Amount of substance containing the Avogadro number of particles such as atoms, molecules, ions, electrons etc. It is 6.02 X 1023 particles.	
+ अणु	 	 The smallest chemical species of a substance that is capable of stable independent existence.	
+ संवेग  	 The product of the mass and velocity of a moving body.	
+ एकवर्णीय प्रकाश	 	 Light composed of a single color.	
+ अन्योन्य प्रेरण	 	 The ratio of the induced emf in one circuit to the rate of change of current in the coil of another circuit.	
+ 		 	 A subatomic reaction in which leptons collide without change in the charges of the colliding particles .	
+ न्यूट्रोन	 	 A neutral subatomic particle having a mass of 1.674943 x 10–27 kg.	
+ न्यूटन	 	 The unit of force; a derived unit having the dimensions kg m/s2. The force required to accelerate a one-kilogram mass at a rate of one meter per second each second.	
+ न्यूटन का गति का प्रथम नियम	 	 A body at rest or in uniform motion in a straight line will remain at rest or in the same uniform motion unless acted upon by an external force; also called the law of inertia.	
+ न्यूटन का सार्वत्रिक गुरुत्व का नियम	 	 The force of attraction between any two particles of matter in the universe is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers of mass.	
+ न्यूटन का गति का द्वितीय नियम	 	 The acceleration of a body is directly proportional to the net force exerted on the body, is inversely proportional to the mass of the body, and has the same direction as the net force; also called the law of acceleration.	
+ न्यूटन का गति का तृतीय नियम	 	 If one body exerts a force on a second body, then the second body exerts a force equal in magnitude and opposite in direction on the first body; also called the law of interaction.  	 A point of no disturbance of a standing wave.
+ 		 	 Sound produced by irregular vibrations in matter which is unpleasant to the listener. 	
+ 		 	 An accelerating frame of reference in which Newton's first law of motion does not hold true. 	
+ अभिलम्ब  	 A line drawn perpendicular to a line or surface. 	
+ 		 	 "Electron-rich" germanium consisting of equal numbers of free electrons and bound positive charges so that the net charge is zero. 	
+ नाभिकीय बंधन ऊर्जा	 	 The force that acts within the small distances between nucleons . 	
+ नाभिकीय परिवर्तन	 	 A change in the identity of atomic nuclei. 	
+ 		 	 The arithmetic difference between the mass of a nucleus and the larger sum of its uncombined constituent particles. 	
+ नाभिकीय भट्ठी/रिएक्टर  	 A device in which the controlled fission of certain substances is used to produce new substances and energy. 	
+ न्यूक्लिआन	 	 A proton or neutron in the nucleus of an atom.  	 The positively charged dense central part of an atom.
+ 		 	 An atom of a particular mass and of a particular element. 	
+ अष्टक  	 The interval between a given musical tone and one with double or half the frequency. 	
+ ओम	 	 The unit of electric resistance; one volt per ampere. 	
+ ओम का नियम	 	 The ratio of the emf applied to a closed circuit to the current in the circuit is a constant. 	
+ प्रकाशीय केन्द्र	 	 The point in a thin lens through which the secondary axes pass. 	
+ 		 	 A property of a transparent material that is a measure of the speed of light through it. 	
+ कक्षक	 	 The probability pattern of position of an electron about the nucleus of an atom. 	
+ परिमाण की कोटि 		 	 A numerical approximation to the nearest power of ten. 	
+ 		 	 The value corresponding to the vertical distance of a point on a graph from the X axis. The Y coordinate.	
+ 		 	 A cathode-ray tube with associated electronic circuits that enable external voltages to deflect the electron beam of the cathode-ray tube simultaneously along both horizontal and vertical axes.	
+ समान्तर परिपथ	 	 An electric circuit in which two or more components connected across two common points in the circuit so as to provide separate conducting paths for the current.	
+ समान्तर चतुर्भुज विधि	 	 The graphic method of finding the resultant of two vectors that do not act along a straight line.	
+ अनुचुम्बकीयता 		 	 The property of a substance by which it is feebly attracted by a strong magnet.	
+ दोलक  	 A body suspended so that it can swing back and forth about an axis.	
+ 		 	 The partially illuminated part of a shadow.	
+ काल	 	  	 The time for one complete cycle, vibration, revolution, or oscillation. 
+ आवर्ती गती	 	 Motion repeated in each of a succession of equal time intervals.	
+ पारगम्यता		 	 The property of a material by which it changes the flux density in a magnetic field from its value in air.	
+ कला	 	 -1 A condition of matter. 	
+ कला कोण 		 	 -1 Of any periodic function, the angle obtained by multiplying the phase by 360 if the angle is to be expressed in degrees, or by 2pi if in radians. 	
+ 		 	 A representation of the concepts of magnitude and direction in a reference plane; a rotating vector.	
+ 		 	 Pertaining to certain materials that become double refracting when strained.	
+ प्रकाश वैद्युत प्रभाव	 	 The emission of electrons by a substance when illuminated by electromagnetic radiation of sufficiently short wavelength.	
+ प्रकाश वैद्युत इलेक्ट्रान	 	 Electrons emitted from a light-sensitive material when it is illuminated with light of sufficiently short wavelength.
+ 		 	 An instrument comparing the intensity source with that of a standard source.	
+ प्रकाशमिति	 	 The quantitative measurement of visible radiation from light sources .	
+ फोटान	 	 A quantum of light energy; the carrier of the electromagnetic interaction.	
+ प्रकाश वैद्युत प्रभाव	 	 The generation of a potential difference across a P-N junction as a consequence of the absorption of incident light of appropriate frequency.	
+ भौतिक परिवर्तन	 	 A change in which the composition and identifying properties of a substance remain unchanged. physical quantity. A measurable aspect of the universe, such as length.	
+ भौतिकी / भौतिक विज्ञान	 	 The science that deals with the relationships between matter and energy. The second half of life.	
+ 		 	 The property of certain natural and synthetic crystals to develop a potential difference between opposite surfaces when subjected to a mechanical stress, and conversely.	
+ 		 	 The identification of a certain sound with a definite tone; depends on the frequency which the ear receives.	
+ 		 	 The point from which the lengths of all torque arms are measured.	
+ प्लैंक नियतांक	 	 A fundamental constant in nature that determines what values are allowed for physical quantities in quantum mechanics; h = 6.63 x 10-34 j s.	
+ प्लाज्मा	 	 A gas that is capable of conducting an electric current.	
+ प्लेट  	 The anode of an electronic tube.	
+ पि-एन सन्धि		 	 The boundary between P and N-type materials in a semiconductor crystal.	
+ ध्रुवित प्रकाश	 	 Light radiations in which the vibrations of all light waves present are confined to planes parallel to each other.	
+ ध्रुवण कोण 		 	 A particular angle of incidence at which polarization of reflected light is complete.	
+ 		 	 Light composed of several colors.	
+ धन किरणें	 	 Rays coming through holes in a cathode on the side opposite the anode in a discharge tube. Positively charged ions.	
+ विभवान्तर	 	 The work done per unit charge as a charge is moved between two points in an electric field.	
+ स्थितिज ऊर्जा	 	 Energy that is the result of the position of an object. potential gradient. The change in potential per unit distance.	
+ शक्ति / सामर्थ्य  	 The time rate of doing work. power factor. The cosine of the phase angle between current and voltage in an a-c circuit.	
+ 		 	 The motion that results from the application of a torque that tends to displace the axis of rotation of a rotating object.	
+ 		 	 The agreement between the numerical values of two or more measurements made in the same way and expressed in terms of deviation; the reproducibility of measured data.	
+ दाब	 	 Force per unit area.	
+ प्राथमिक	 	 A transformer winding that carries current and normally induces a current in one or more secondary windings.	
+ प्राथमिक सेल	 	 An electrochemical cell in which the reacting materials must be replaced after a given amount of energy has been supplied to the external circuit.	
+ 		 	 Colors in terms of which all other colors may be described or from which all other colors may be evolved by mixtures.	
+ 		 	 The complements of the primary colors.	
+ मुख्य अक्ष	 	 -1 A line drawn through the center of curvature and the vertex of a curved mirror. 	
+ मुख्य नाभि	 	 A point at which rays parallel to the principal axis converge or from which they diverge after reflection or refraction.	
+ सिद्धान्त	 	 See law.	
+ 		 	 For every process in nature there is a mirror-image process which is indistinguishable from the original process.	
+ 		 	 To travel through a material or space.	
+ 		 	 The act of propagating. The action of traveling through a material or space.	
+ गुण	 	 A measurable aspect of matter, e.g., mass and inertia.	
+ प्रोटान	 	 A positively charged subatomic particle having a mass of 1.6726485 x 10–27 kg and a charge equal and opposite to that of the electron.	
+ 		 	 "Hole-rich" germanium consisting of equal numbers of free positive holes and bound negative charges so that the net charge is zero.	
+ 		 	 A single nonrepeated disturbance.	
+ 		 	 The property of sound waves that depends on the number of harmonics and their prominence.	
+ क्वांटम	 	 An elemental unit of energy; a photon of energy hf.	
+ क्वांटम यांत्रिकी	 	 The branch of physics that heals with the behavior of particles whose specific properties are given by quantum numbers.	
+ क्वान्टम संख्या	 	 One of a set of notations used to characterize a discrete value that a quantized variable is allowed to assume.	
+ क्वान्टम सिद्धान्त	 	 A unifying theory based on the concept of the subdivision of radiant energy into discrete quanta  	 and applied to the studies of structure at the atomic and molecular levels. 
+ 		 	 A steady-state condition. The operating condition of an electronic circuit when no input signal is applied.	
+ रेडियन	 	 A unit of angular measurement. The angle that, when placed with its vertex at the center of a circle, subtends on the circumference an arc equal in length to the radius of the circle. Approximately 57.3o.	
+ रेडियो तरंगें	 	 Also called Hertzian waves. Electromagnetic radiations produced by rapid reverses of current in a conductor.	
+ रेडियोधर्मिता	 	 The spontaneous breakdown of an atomic nucleus with the emission of particles and rays.	
+ रेडियो समस्थानिक	 	 An isotope of an element that is radioactive.	
+ विरलन	 	 The region of a longitudinal wave in which the vibrating particles are farther apart than their equilibrium distance .	
+ किरण	 	 A single line of light from a luminous point. A line showing the direction of propagation of light.	
+ 		 	 The nonresistive opposition to current in an a-c circuit.	
+ 		 	 A heat engine whose acceleration is produced by the thrust of exhaust gases.	
+ वास्तविक प्रतिविम्ब	 	 An image formed by actual rays of light.	
+ दिष्टकारी	 	 A device for changing alternating current to direct current.	
+ सरल रेखीय गति	 	 Traveling in a straight line.	
+ 		 	 The ratio of the light reflected from a surface to the light falling on it, expressed in percentage.	
+ परावर्तन	 	 The return of a wave from the boundary of a medium.	
+ अपवर्तन	 	 The bending of a wave disturbance as it passes obliquely from one medium into another in which the disturbance has a different velocity.	
+ 		 	 The melting of a substance under pressure and the refreezing after the pressure is released.	
+ 		 	 Reflection from a polished surface in which scattering effects are negligible.	
+ सापेक्षिक विपथन	 	 Percentage average deviation of a set of measurements.	
+ सापेक्षिक त्रुटि	 	 Percentage absolute error of a set of measurements.	
+ सापेक्षिक आर्द्रता	 	 The ratio of the water vapor pressure in the atmosphere to the equilibrium vapor pressure at a given temperature.	
+ 		 	 The mass of an object in motion with respect to the observer.	
+ 		 	 Magnetism retained in a magnet after the magnetizing field has been removed.	
+ प्रतिरोध	 	 The ratio of the potential difference across a conductor to the magnitude of current in it.	
+ प्रतिरोधकता  	 A proportionality constant that relates the length and cross-sectional area of a given electric conductor to its resistance, at a given temperature.	
+ बलों का वियोजन	 	 The resolving of a single force into component forces acting in given directions on the same point.	
+ अनुनाद	 	 -1 The inducing of vibrations of a natural rate by a vibrating source having the same frequency. 
+ 		 	 The mass of an object not in motion.	
+ परिणामी	 	 A vector representing the sum of several vector components. resultant force. The single force that has the same effect as two or more forces applied simultaneously at the same point.	
+ 		 	 Voltage applied to a semiconductor P-N junction that reduces the electron current across the junction.	
+ 		 	 A variable resistance.	
+ वर्गमूल माध्य धारा  	 The effective value of an alternating current; the square root of the mean of the instantaneous values squared. 	
+ 	घूर्णन गति  	 Motion of a body about an internal axis.	
+ घूर्णीय संतुलन  	 The state of a body in which the sum of all the clockwise torques in a given plane equals the sum of all the counterclockwise torques about a pivot point.	
+ घूर्णीय जडत्व  	 The property of a rotating object that resists changes in its angular velocity.	
+ अदिश राशि	 	 A quantity that is completely specified by a magnitude.	
+ 		 	 A positive number expressed in the form of M x 10n in which M is a number between 1 and 10 and n is an integral power of 10.	
+ 		 	 A device that counts the impacts of charged subatomic particles on a fluorescent screen by means of a photomultiplier tube.	
+ सेकेण्ड	 	 A unit of time; equivalent to 9,192,631,770 vibrations of cesium-113. One of the seven fundamental units of measure.	
+ प्रकाश वैद्युत उत्सर्जन का द्वितीय नियम	 	 The kinetic energy of photoelectrons is independent of the intensity of the incident light.	
+ उष्मागतिकी का द्वितीय नियम	 	 It is not possible for an engine to transfer heat from one body to another at a higher temperature unless work is done on the engine.	
+ द्वितीयक	 	 A transformer output winding in which the current is due to inductive coupling with another winding called the primary.	
+ द्वितीयक अक्ष	 	 Any line other than the principal axis drawn through the center of curvature of a mirror or the optical center of a lens.	
+ द्वितियक उत्सर्जन	 	 Emission of electrons as a result of the bombardment of an electrode by high-velocity electrons.	
+ 		 	 The property of a tuned circuit that discriminates between signal voltages of different frequencies.	
+ स्व-प्रेरणांक  	 The ratio of the induced emf across a coil to the rate of change of current in the coil.	
+ श्रेणीक्रम परिपथ	 	 An electric circuit in which the components are arranged to provide a single conducting path for current.	
+ श्रेणीक्रम अनुनाद	 	 A condition in which the impedance of a series circuit containing resistance, inductance, and capacitance is equal to the resistance of the circuit and the voltage across the circuit is in phase with the current.	
+ 		 	 The ratio of the amount of deformation of the side of a body to the length of the side.	
+ लघु परिपथ	 	 An electric circuit through a negligible resistance that usually shunts a normal load and overloads the circuit.	
+ सार्थक अंक 		 	 Those digits in an observed quantity  	 that are known with certainty plus the first digit that is uncertain.
+ सरल आवर्त गति  	 Motion in which the acceleration is proportional to the displacement from an equilibrium position and is directed toward that position.	
+ सौर स्पेक्ट्रम	 	 The band of colors produced when sunlight is dispersed by a prism.	
+ परिनालिका	 	 A long helical wound coil of insulated wire.	
+ 		 	 A device used to detect the passage of charged subatomic particles by their crystal-distorting or ionizing effects on a nonconducting or nonconducting solid.	
+ 		 	 The change of phase from a liquid to a solid.	
+ 		 	 A device, consisting of two or more wires or strings stretched over a sounding board, used for testing the frequency of strings and for showing how they vibrate.	
+ ध्वनि	 	 The series of disturbances in matter to which the human ear is sensitive. Also similar disturbances in matter above and below the normal range of human hearing.	
+ ध्वनि तीव्रता	 	 The rate at which sound energy flows through a unit area.	
+ 		 	 The negative charge in the space between the cathode and plate of a vacuum tube.	
+ 		 	 A device used to detect the passage of charged subatomic particles by the light flashes they trigger.	
+ विशिष्ट गुरुत्व	 	 The ratio of the mass density of a substance to that of water.	
+ विशिष्ट उष्मा	 	 The heat capacity of a material per unit mass.	
+ 		 	 Optical instrument used for the study of spectra.	
+ चाल	 	 Time rate of motion.	
+ गोलीय विपथन	 	 The failure of parallel rays to meet at a single point on a spherical surface after reflection or refraction.	
+ 		 	 A device used to detect subatomic particles by the light flashes they produce on a zinc sulfide screen.	
+ मानक दाब	 	 The pressure exerted by 760 mm of mercury at O oC.	
+ मानक ताप	 	 OoC, 273oK.	
+ अप्रगामी तरंग	 	 The resultant of two wave trains of the same wavelength, frequency, and	amplitude traveling in opposite directions through the same medium
+ स्थिर विद्युत	 	 Electricity at rest.	
+ 		 	 The boiling point of water at standard atmospheric pressure.	
+ स्टेरेडियन	 	 The ratio of the intercepted surface area of a sphere to the square of the radius. A unit of solid angle.	
+ भण्दारण सेल	 	 An electrochemical cell in which the reacting materials are regenerated by the use of a reverse current from an external source.	
+ विकृति	 	 The relative amount of distortion produced in a body under stress.	
+ प्रतिबल  	 The distorting force per unit area.	
+ 		 	 The interaction that holds the particles of the nucleus together and is independent of charge.	
+ उर्ध्वपातन	 	 The change of a solid to a gaseous phase without passing through the liquid phase.	
+ अतिचालकता	 	 The condition of zero resistivity below the transition temperature of a substance.	
+ अतिशीतलन	 	 The process of cooling a substance below its normal phase change point without a change of phase.	
+ अध्यारोपण 		 	 Combining the displacements of two or more waves vectorially to produce a resultant displacement.	
+ पृष्ठ तनाव	 	 The tendency of a liquid surface to contract; the measure of this tendency in newtons per meter.	
+ 		 	 See resonance । 	
+ सिनकोट्रान	 	 A particle accelerator in which the oscillating frequency varies.	
+ प्रौद्योगिकी	 	 The application of science to human needs and goals.	
+ ताप	 	 The physical quantity that is proportional to the average kinetic energy of translation of particles in matter.	
+ अस्थायी चुम्बक	 	 A magnet produced by induction.	
+ 		 	 The force required to break a rod or wire of unit cross-sectional area.	
+ सिद्धान्त	 	 A plausible explanation of an observed event, supported experimentally and confirmed by experiments designed to test predictions based upon the explanation.	
+ उष्मीय उर्जा	 	 The total potential and kinetic energy associated with the random motions of the particles of a material.	
+ तापायनिक उत्सर्जन  	 The liberation of electrons from the surface of a hot body.	
+ तापयुग्म	 	 An electric circuit composed of two dissimilar metals whose junctions are maintained at different temperatures .	
+ उष्मागतिकी	 	 Study of quantitative relationships between heat and other forms of energy.	
+ ताप वैद्युत प्रभाव	 	 The production of an electron current in a closed circuit consisting of two dissimilar metals as a result of the emf developed when the two junctions are maintained at different temperatures.	
+ 		 	 Nuclear fusion.	
+ प्रकाश वैद्युत उत्सर्जन का तृतीय नियम	 	 Within the region of effective frequencies, the maximum kinetic energy of photoelectrons varies directly with the difference between the frequency of the incident light and the cut-off frequency.	
+ 		 	 An idealized experiment that cannot be performed under actual conditions.	
+ 		 	 The intensity of the faintest sound audible to the average human ear, 10-16 w/cm2 at 103 hz.	
+ 		 	 For audible frequencies of sound, an intensity level above which pain results in the average human ear. Rock concert.	
+ 		 	 Degree of precision obtainable with a measuring instrument.	
+ बलाघूर्ण	 	 Product of a force and the effective length of its torque arm.	
+ बलाघूर्ण की भुजा	 	 The perpendicular distance between the line of action of the torque producing force and the axis of rotation.	
+ पूर्ण परावर्तन	 	 The reflection of light at the boundary of two transparent media when the angle of incidence exceeds the critical angle.	
+ ट्रान्सफार्मर	 	 A device for changing an alternating voltage from one potential to another.	
+ ट्रान्जिस्टर	 	 A semiconductor device used as a substitute for vacuum tubes in electronic applications.	
+ क्रांतिक ताप 		 	 A specific temperature at which the resistivity of some materials drops suddenly to zero.	
+ 		 	 The state of a body in which there are no unbalanced forces acting on it.	
+ 		 	 Elements with atomic number greater than 92.	
+ अनुप्रस्थ तरंग	 	 A wave in which the vibrations are at right angles to the direction of propagation of the wave.	
+ ट्रायोड	 	 Vacuum tube consisting of a plate, grid, and cathode.	
+ त्रिक बिन्दु 		 	 The single condition of temperature and pressure at which the solid, liquid, and vapor phases of a substance can coexist in stable equilibrium.	
+ 	 	 A region of downward displacement in a transverse wave.	
+ 		 	 A metal two-prong fork that produces a sound of a definite pitch.	
+ पराश्रव्य परास  	 Vibrations in matter above 20,000 vibrations/second.	
+ पराबैगनी प्रकाश	 	 Electromagnetic radiations of shorter wavelength than visible light but longer than X rays.	
+ 		 	 The part of a shadow from which all light rays are excluded.	
+ अनिश्चितता का सिद्धान्त	 	 It is impossible to specify simultaneously both the position of an object and its momentum.	
+ एकिकृत क्षेत्र सिद्धान्त	 	 The principle that all forces in the universe are part of a single concept.	
+ इकाई चुम्बकीय द्विध्रुव  	 One that repels an exactly similar pole placed one centimeter away with a force of one dyne.
+क्वार्क {quark} one of the elementary partical.
