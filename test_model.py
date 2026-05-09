@@ -1,16 +1,10 @@
-import torch
-
 from model import HindiGPT
-
-# Example token input
-x = torch.randint(
-    0,
-    16000,
-    (2, 8)
-)
 
 model = HindiGPT()
 
-logits = model(x)
+total_params = sum(
+    p.numel()
+    for p in model.parameters()
+)
 
-print("Logits Shape:", logits.shape)
+print(f"Total Parameters: {total_params:,}")
