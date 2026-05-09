@@ -9,7 +9,7 @@ class HindiDataset(Dataset):
                  file_path,
                  tokenizer_path,
                  seq_len=128,
-                 max_chars=10000):
+                 max_chars=500000):
 
         self.seq_len = seq_len
 
@@ -22,14 +22,23 @@ class HindiDataset(Dataset):
         self.tokens = self.sp.encode(text)
 
     def __len__(self):
+
         return len(self.tokens) - self.seq_len
 
     def __getitem__(self, idx):
 
-        chunk = self.tokens[idx:idx+self.seq_len+1]
+        chunk = self.tokens[
+            idx:idx+self.seq_len+1
+        ]
 
-        x = torch.tensor(chunk[:-1])
+        x = torch.tensor(
+            chunk[:-1],
+            dtype=torch.long
+        )
 
-        y = torch.tensor(chunk[1:])
+        y = torch.tensor(
+            chunk[1:],
+            dtype=torch.long
+        )
 
         return x, y
